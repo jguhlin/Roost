@@ -284,8 +284,6 @@ data/
 
 **Total:** 20,669 records (after deduplication from 52,794 raw), 297 species mapped to NCBI
 
-See `DATA_INVENTORY.md` for full provenance details.
-
 ### Sampling Types (After Deduplication)
 | Type | Records | Percentage |
 |------|---------|------------|

@@ -6,7 +6,7 @@
 
 **Created:** 2026-09-11, after shipping `#/spread-cyto` (beta, v0.4).
 **Status:** Phases 0–5 ✅ (2026-09-11) · Phases 6–8 planned (2026-10-08) — the layered model.
-Companion docs: `DATA_MATURATION.md` (data architecture), `DATA_MANIFEST.md` (sources).
+Companion docs: `DATA_MANIFEST.md` (sources).
 
 ---
 

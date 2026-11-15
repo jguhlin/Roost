@@ -117,7 +117,7 @@ def save_overlay(overlay):
         "Curated species overlay - the single home for hand-curated species "
         "metadata. Merged into species_index.json by "
         "scripts/export_web_data.py:generate_search_index (the index's only "
-        "writer). See DATA_MATURATION.md Phase 3."))
+        "writer)."))
     with open(path, "w") as f:
         json.dump(overlay, f, indent=1, ensure_ascii=False)
     print(f"Saved overlay -> {path}")

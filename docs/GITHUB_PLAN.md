@@ -29,7 +29,7 @@ all now covered by `.gitignore`:
 
 What remains tracked: `scripts/` (302), `figures/` source + specs (143),
 `web/` src/tests/config (136), `docs/` (39), `paper/` (14), `.pi/skills+prompts` (9),
-root planning docs (AGENTS.md, STATUS, ROADMAP, …), `pixi.toml`,
+root planning docs (AGENTS.md, DATA_MANIFEST.md, SPREAD_MODEL.md, …), `pixi.toml`,
 `assets/manifest.sqlite` (8 MB), `pub_workspace` notes.
 
 ---

@@ -1,7 +1,7 @@
 # Roost — Scientific Consistency & Animation Readiness Report
 
 **Task:** targeted validation and repair pass before storyboard development.
-**Companion documents:** `roost_animation_discovery.md`, `roost_animation_user_journeys.md` (both updated where corrections landed).
+**Companion documents:** [`discovery.md`](discovery.md), [`user_journeys.md`](user_journeys.md) (both updated where corrections landed).
 **Date of pass:** 2026-11-10. No animation was produced; changes are data repairs, metadata corrections, and restrained UI confidence presentation.
 
 **Overall test status at close:** validation suite **17/17 passed** (`scripts/tests/test_animation_readiness.py`); by-the-numbers **23/23 checks green**; Playwright regression subset **6/6** + new overlay spec **3/3**; i18n scanner clean (0 hardcoded strings); svelte-check delta vs. baseline **+0 substantive errors** (2 line-shifted pre-existing `never`-inference diagnostics only; repo baseline is 2,939, unchanged in kind).

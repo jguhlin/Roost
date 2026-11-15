@@ -14,7 +14,7 @@ Usage:
     pixi run refresh --skip-tests   # build but don't run Playwright
     pixi run refresh --papers       # also refresh paper corpus (slow, LLM)
 
-Automation roadmap (not yet done — see ROADMAP.md "Automation" section):
+Automation roadmap (not yet done):
   - cron/systemd timer or GitHub Actions schedule (weekly)
   - data freshness alerts (fail if newest record older than N days)
   - incremental fetch (skip unchanged sources via ETag/Last-Modified)
