@@ -1,0 +1,15 @@
+{
+  "figure": "fig-pb2-markers-gap-map",
+  "kind": "gap-map-spec",
+  "title": "Evidence map: mammalian-adaptive PB2 markers in the corpus",
+  "caption": "What the corpus holds on mammalian PB2 adaptation: alternative signatures (384L/443R/460M sufficient for mouse lethality; cattle M631L with D740N) — but no direct test of the classic E627K/D701N markers.",
+  "page": "how-the-presence-or-absence-of-mammalian-adaptive-markers-such-as",
+  "generated": "2026-10-04",
+  "assets": [],
+  "attribution_summary": "",
+  "sources": [
+    "yao2026",
+    "pb2_cattle_adaptation2026"
+  ],
+  "spec": "figures/specs/fig-pb2-markers-gap-map.json"
+}

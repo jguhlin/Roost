@@ -1,0 +1,17 @@
+{
+  "figure": "fig-brain-lesions-gap-map",
+  "page": "whether-macroscopic-brain-lesions-develop-in-mammals-infected-with",
+  "title": "Evidence map: macroscopic brain lesions in H5N1-infected mammals",
+  "columns": [{"label": "Ferret\nmodels"}, {"label": "Cattle"}, {"label": "Wild marine\nmammals"}, {"label": "GROSS BRAIN\nPATHOLOGY", "gap": true}],
+  "rows": ["Mortality /\npathogenicity", "Transmission", "Necropsy reports\n(brain, gross)"],
+  "cells": [
+    [{"level": 2, "text": "lethal disease, 100% fatality\n(HPAI H5N1 clade 2.3.4.4b)\n[marco_vizcarra_chile_2024]"}, 1, {"level": 2, "text": "Chile: 100% fatal marine\nmammal outbreak [same]"}, 0],
+    [{"level": 2, "text": "droplet transmission, NH280\nclade [marco_vizcarra_2024]"}, 0, 0, 0],
+    [0, 0, 0, 0]
+  ],
+  "note_box": "histopathology of H5N1 neurotropism exists, but gross macroscopic brain-lesion\nrecords at necropsy are absent across all systems",
+  "caption": "Ferret models document lethal disease and droplet transmission; Chile's marine-mammal outbreak was 100% fatal — but gross brain pathology at necropsy is unrecorded in any system.",
+  "footnote": "Gap report briefing. Figure: fig-brain-lesions-gap-map (spec-driven).",
+  "sources": ["marco_vizcarra_chile_2024", "marco_vizcarra_2024"],
+  "generated": "2026-10-04"
+}

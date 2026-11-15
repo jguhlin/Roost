@@ -1,0 +1,15 @@
+{
+  "figure": "fig-mx1-gap-map",
+  "kind": "gap-map-spec",
+  "title": "Evidence map: MX1 (Mx) in the avian influenza corpus",
+  "caption": "MX1 has real mechanistic content in chicken lines (Mx–NP interaction blocking primary transcription; Mx(A) vs Mx(G) resistance) and one human expression study — but nothing on MX1 in wild birds.",
+  "page": "MX1-gene-deep-dive",
+  "generated": "2026-10-04",
+  "assets": [],
+  "attribution_summary": "",
+  "sources": [
+    "genetic_resistance2025",
+    "circrna_expression_profiling_h1n1_2024"
+  ],
+  "spec": "figures/specs/fig-mx1-gap-map.json"
+}

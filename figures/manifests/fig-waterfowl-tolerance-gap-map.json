@@ -1,0 +1,15 @@
+{
+  "figure": "fig-waterfowl-tolerance-gap-map",
+  "kind": "gap-map-spec",
+  "title": "Evidence map: why some wild waterfowl tolerate H5N1",
+  "caption": "Tolerance evidence exists only in domesticated hosts: chicken inbred lines (infection transcriptomics) and haplotyped domestic ducks (PBMC innate responses). Wild waterfowl species — the actual phenomenon — have no data.",
+  "page": "why-do-some-wild-waterfowl-species-tolerate-h5n1-infection-while",
+  "generated": "2026-10-04",
+  "assets": [],
+  "attribution_summary": "",
+  "sources": [
+    "hpai_resistant_chickens_exhibit_2024",
+    "duck_b1_haplotype_2024"
+  ],
+  "spec": "figures/specs/fig-waterfowl-tolerance-gap-map.json"
+}

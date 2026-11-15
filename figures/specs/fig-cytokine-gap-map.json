@@ -1,0 +1,67 @@
+{
+  "figure": "fig-cytokine-gap-map",
+  "page": "does-the-cytokine-storm-kill-wild-birds-or-does-it-merely-accompany",
+  "title": "Evidence map: does the cytokine storm KILL wild birds — or just accompany infection?",
+  "columns": [
+    {
+      "label": "Lab mice\n(in vivo)"
+    },
+    {
+      "label": "Human cells\n(in vitro)"
+    },
+    {
+      "label": "Domestic\nchicken"
+    },
+    {
+      "label": "WILD BIRDS\n(the question)",
+      "gap": true
+    }
+  ],
+  "rows": [
+    "Cytokine / chemokine\nprofiling during infection",
+    "Causality test\n(manipulate storm → mortality)",
+    "Field mortality\ncorrelation"
+  ],
+  "cells": [
+    [
+      {
+        "level": 2,
+        "text": "CXCL1, IL-1β, IL-6, TNF-α ↑\n(brain, turbinate; Bov342)\n[enhanced_encephalitic_2024]"
+      },
+      {
+        "level": 2,
+        "text": "type I/II/III IFN induction\nin cell lines"
+      },
+      {
+        "level": 2,
+        "text": "lung transcriptomics:\ncytokine/chemokine ↑"
+      },
+      0
+    ],
+    [
+      {
+        "level": 1,
+        "text": "dose–response, no storm\nmanipulation"
+      },
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      {
+        "level": 1,
+        "text": "lab outcomes only"
+      },
+      0
+    ]
+  ],
+  "note_box": "no study anywhere manipulates the storm and measures mortality —\nthe causal question is open even outside wild birds",
+  "caption": "Cytokine induction is documented in mice, human cells, and chickens — but no study in any system manipulates the storm and tests mortality, and wild birds have no data at all.",
+  "footnote": "Gap report briefing — enhanced_encephalitic_tropism_bovine_2024 + corpus searches. Figure: fig-cytokine-gap-map.",
+  "sources": [
+    "enhanced_encephalitic_tropism_bovine_2024"
+  ],
+  "generated": "2026-10-04"
+}

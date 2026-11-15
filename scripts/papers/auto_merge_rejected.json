@@ -1,0 +1,1810 @@
+[
+ {
+  "title": "Avian influenza: how well is relevant biosecurity information communicated via online resources?",
+  "reason": "Title concerns avian influenza but primary subject is communication of biosecurity information via online resources, not virus biology, host response, vaccines/antivirals or outbreak surveillance.",
+  "q1": "yes",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Ecological implications and lessons from high pathogenicity avian influenza H5N1 2.3.4.4b in Antarctica",
+  "reason": "Source type cannot be confidently determined from venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Dispersal, adaptation and persistence of H5N1 in the sub-Antarctic and Antarctica",
+  "reason": "Title explicitly names H5N1 and concerns dispersal/adaptation/persistence in sub-Antarctic/Antarctica, consistent with virus evolution/surveillance in wild birds, and venue is a preprint.",
+  "q1": "yes",
+  "q2": "preprint",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Cross-species transmission of avian influenza A(H5N1) virus to mammals: lessons learnt from 2024–2025 outbreaks in cattl",
+  "reason": "Source type cannot be confidently determined from venue and title alone, so the record is rejected for precision.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Highly Pathogenic Avian Influenza H5N1 in South America, 2022–2025: Spread, Affected Species, and Southward Expansion in",
+  "reason": "Source type cannot be determined with certainty from venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "North American perspective on the highly pathogenic avian influenza H5Nx clade 2.3.4.4b outbreak (November 2021–March 20",
+  "reason": "Source type cannot be confidently determined from title and venue alone; perspective article may be opinion.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Surveillance and cross-species transmission assessment of H3NX avian influenza viruses isolated in Guangdong province, C",
+  "reason": "Title concerns H3NX avian influenza, not H5/H5N1/HPAI/A(H5Nx) as required.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Avian influenza H5N1: A warning signal for the next influenza pandemic",
+  "reason": "Source type cannot be determined with certainty from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Molecular epidemiological characteristics of H9N2 subtype avian influenza virus in the external environment of western Z",
+  "reason": "Title concerns H9N2 avian influenza, which is not H5/H5N1/HPAI/A(H5Nx) as required for relevance.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Ongoing H5N1 Outbreaks in Poultry Flocks and Wild Birds in the United States",
+  "reason": "Venue is unknown so source type cannot be confirmed as an acceptable research/preprint/review/report.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Evolution and spread of H8Nx avian influenza viruses from wild birds in East Asia, 2019-2024",
+  "reason": "Title concerns H8Nx avian influenza, not H5/H5N1/HPAI/A(H5Nx) as required for relevance.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Knowledge, Attitudes, and Practices Regarding Avian Influenza Among Owners of Backyard Flocks — United States, July–Dece",
+  "reason": "Title concerns human knowledge attitudes practices among flock owners rather than virus biology, host response or outbreak surveillance.",
+  "q1": "yes",
+  "q2": "report",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Epidemiology and impact of high pathogenicity avian influenza in Europe 2020–2025",
+  "reason": "Source type cannot be determined with certainty from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "How animal diseases become endemic: case studies of avian influenza in France and African swine fever in Italy",
+  "reason": "Source type cannot be confirmed as acceptable research/review/report from Medical Humanities venue and title.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Knowledge, attitudes, and perceptions of poultry farmers regarding avian influenza in South West Nigeria: a cross-sectio",
+  "reason": "Title concerns farmer knowledge attitudes and perceptions rather than virus biology, host response, or surveillance within scope.",
+  "q1": "yes",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "The Gordon Memorial Lecture: A paradigm shift in high pathogenicity avian influenza and perspectives for the future",
+  "reason": "Source type cannot be confidently classified as an acceptable research/review/report from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "The role of wild birds in the global highly pathogenic avian influenza H5 panzootic, 2020–2023",
+  "reason": "Source type cannot be determined with certainty from venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Wildlife rescue and rehabilitation considering highly pathogenic avian influenza in Japan",
+  "reason": "Source type and primary scope cannot be confirmed from title/venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Avian influenza and One Health: bridging animal and human health through integrated surveillance and vaccination",
+  "reason": "Source type cannot be determined from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "High pathogenicity avian influenza in pinniped conservation",
+  "reason": "Source type cannot be determined from venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Emerging threat of avian influenza to the world's vultures",
+  "reason": "Source type cannot be determined from venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Evaluation of the Efficacy of Low-Concentration Gaseous Chlorine Dioxide in Inactivating Airborne H5 High Pathogenicity ",
+  "reason": "Title is about avian influenza H5 HPAI but primary subject is disinfectant inactivation, which is outside the listed scope categories.",
+  "q1": "yes",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "TiO2 Photocatalyst Inactivates Highly Pathogenic Avian Influenza Virus and H1N1 Seasonal Influenza Virus via Multi-Antiv",
+  "reason": "Relevance to avian influenza is clear but primary subject is photocatalyst inactivation, making scope uncertain from title/venue alone.",
+  "q1": "yes",
+  "q2": "research",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Genetic strategies for avian influenza resilience in poultry: from host-pathogen interaction studies to precision breedi",
+  "reason": "Source type cannot be determined with certainty from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Cornell University research and knowledge base address highly pathogenic avian influenza outbreak",
+  "reason": "Source type cannot be confidently determined from title and venue; title reads like a news/press summary rather than a clear research/review/report article.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Influenza A Virus H5N1 Subtype: Resurgent Interspecies and Intercontinental Transmission, and a New Host",
+  "reason": "Source type cannot be determined with certainty from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Mass mortality at penguin mega-colonies due to avian cholera confounds H5N1 HPAIV surveillance in Antarctica",
+  "reason": "Primary subject is avian cholera mortality in penguins, not avian influenza virology or surveillance, despite mention of H5N1.",
+  "q1": "yes",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Three-Phase Decline in Reported Farm-Level Fowl Typhoid Occurrence in the Republic of Korea, 2000–2024: Temporal Alignme",
+  "reason": "Primary subject is farm-level fowl typhoid occurrence, not avian influenza virus biology or surveillance, despite mention of H5N6 HPAI epidemic for temporal alignment.",
+  "q1": "yes",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Asymptomatic Influenza A(H5N1) Infections and Sustained Surveillance—Sustaining Surveillance Beyond the Crisis",
+  "reason": "Source type cannot be determined from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "H5N1 resurgence in Cambodia: A warning sign of global zoonotic vulnerability",
+  "reason": "Source type cannot be determined from title and venue alone and appears to be commentary rather than a clear research/review/report.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Spatio-Temporal Hotspot Detection and Flyway Network Analysis of HPAI Outbreaks in Wild Birds",
+  "reason": "Venue is unknown so source type cannot be confirmed from supplied metadata.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Immunological and virological questions for H5N1 pandemic emergence",
+  "reason": "Source type cannot be confidently determined from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Epidemiology, Virology, and Control of Highly Pathogenic Avian Influenza in Kazakhstan",
+  "reason": "Source type cannot be confidently determined from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Understanding avian influenza mortality",
+  "reason": "Source type cannot be determined from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Zoonoethics and Inclusive One Health Governance for H5N1 Panzootic: From Animal Culling to Co-responsibility",
+  "reason": "Title indicates an ethics/governance essay rather than virology, epidemiology, surveillance or host biology research.",
+  "q1": "yes",
+  "q2": "opinion",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Concern for Highly Pathogenic Avian Influenza Spillover into Cetaceans",
+  "reason": "Source type cannot be determined from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "The ongoing panzootic of avian Influenza A (H5N1) and its potential pandemic threat.",
+  "reason": "Source type cannot be confidently determined from venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Pathogenicity and host range of avian influenza viruses: molecular determinants and virological perspectives",
+  "reason": "Source type cannot be confirmed as research/preprint/review/report from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Endemic avian influenza landscape in Asia: sustained zoonotic risks",
+  "reason": "Source type cannot be determined with certainty from venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Companion animals and H5N1 highly pathogenic avian influenza: cause for concern?",
+  "reason": "Source type cannot be determined with certainty from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Avian influenza and use of the H5N1 vaccine to prevent zoonotic infection in Canada",
+  "reason": "Source type cannot be confirmed as research/preprint/review/report from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Transmission, Pathological and Clinical Manifestations of Highly Pathogenic Avian Influenza A Virus in Mammals with Emph",
+  "reason": "Source type cannot be determined with certainty from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Emergence, spread, and impact of high‐pathogenicity avian influenza H5 in wild birds and mammals of South America and An",
+  "reason": "Source type cannot be determined with certainty from venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "A pandemic toolbox for clade 2.3.4.4b A(H5N1) influenza virus risk assessment",
+  "reason": "Source type cannot be determined with certainty from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Expanding Horizons: Host Range Evolution and Treatment Strategies for Highly Pathogenic Avian Influenza H5N1 and H7N9",
+  "reason": "Source type cannot be determined with certainty from the title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Occupational Risk from Avian Influenza Viruses at Different Ecological Interfaces Between 1997 and 2019",
+  "reason": "Source type cannot be determined from venue and title alone, so classification is uncertain.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Highly Pathogenic Avian Influenza (H5N1) Clade 2.3.4.4b in Cattle: A Rising One Health Concern",
+  "reason": "Source type cannot be determined with certainty from venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Enhancing the response to avian influenza in the US and globally",
+  "reason": "Source type cannot be confidently determined from title and venue alone and may be commentary/opinion, which is not acceptable.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Highly pathogenic avian influenza H5N1 in the United States: recent incursions and spillover to cattle",
+  "reason": "Source type cannot be determined from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Study of the 16S microbiome of swans died during the H5N1 outbreak in the Caspian seashore",
+  "reason": "Primary focus on 16S microbiome is not clearly within the listed avian influenza scope categories from title alone.",
+  "q1": "yes",
+  "q2": "research",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Avian Influenza – The next travel-associated pandemic? Proactive One Health surveillance is required to reduce the risk ",
+  "reason": "Title indicates an advocacy/opinion commentary on surveillance rather than a research/review/report article.",
+  "q1": "yes",
+  "q2": "opinion",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Molecular and ecological determinants of mammalian adaptability in avian influenza virus",
+  "reason": "Source type cannot be determined with certainty from venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Impact of inactivated vaccine on transmission and evolution of H9N2 avian influenza virus in chickens",
+  "reason": "Title concerns H9N2 avian influenza, not H5/H5N1/HPAI/A(H5Nx) as required for relevance.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Molecular basis for reduced neuraminidase inhibitors susceptibility in highly pathogenic avian influenza A (H5N1) viruse",
+  "reason": "Source type cannot be confirmed as research/review/report from title and venue; Perspective suggests opinion piece.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "journey of the avian influenza virus H5N1 through 30 years of evolutionary events, geographical locations, and animal sp",
+  "reason": "Source type cannot be determined with certainty from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Highly Pathogenic Avian Influenza A (H5N8) Virus: Structure, Case Studies and WHO Recommendation",
+  "reason": "Source type cannot be confirmed from Bentham Science Publishers eBooks venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Microbiome–Immune Interaction and Harnessing for Next-Generation Vaccines Against Highly Pathogenic Avian Influenza in P",
+  "reason": "Source type cannot be determined from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Long‐Term Behavior and Extinction of a Stochastic Avian Influenza Model With Reaction–Diffusion",
+  "reason": "Title indicates a mathematical modeling study and scope fit for biological/epidemiological topics cannot be confirmed from title, venue and year alone.",
+  "q1": "yes",
+  "q2": "research",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Avian influenza spillover into poultry: environmental influences and biosecurity protections",
+  "reason": "Source type cannot be confirmed as research/preprint/review/report from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Viral tropism is a cornerstone in the spread and spillover of avian influenza viruses",
+  "reason": "Source type cannot be determined with certainty from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Epidemiology, evolution, and biological characteristics of avian influenza A (H11) viruses from wild birds",
+  "reason": "Title concerns avian influenza A H11, not H5/H5N1/HPAI/A(H5Nx) as required for relevance.",
+  "q1": "no",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Coastal connectivity of marine predators over the Patagonian Shelf during the highly pathogenic avian influenza outbreak",
+  "reason": "Relevance is clear from title but primary subject of marine predator connectivity during the outbreak is uncertain to be within the specified avian influenza host/virus/surveillance scope from title alone.",
+  "q1": "yes",
+  "q2": "research",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Targets of influenza human T-cell response are mostly conserved in H5N1",
+  "reason": "Title explicitly mentions H5N1 and human T-cell response, indicating avian influenza host immunology research published in mBio.",
+  "q1": "yes",
+  "q2": "research",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Emerging Threats of Highly Pathogenic Avian Influenza A (H5N1) in US Dairy Cattle: Understanding Cross-Species Transmiss",
+  "reason": "Source type cannot be determined with certainty from venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Highly Pathogenic Avian Influenza (HPAI) H5 Clade 2.3.4.4b Virus Infection in Birds and Mammals",
+  "reason": "Source type cannot be determined from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Broadening the aims of avian influenza surveillance according to the One Health approach",
+  "reason": "Source type cannot be determined with certainty from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Avian Influenza: Outbreak in Viet Nam in 2024",
+  "reason": "Source type cannot be determined with certainty from venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Alert and surveillance on H5N1 influenza virus: risks to agriculture and public health",
+  "reason": "Source type cannot be determined from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Highly Pathogenic Avian Influenza A(H5N1) Virus Infections in Humans",
+  "reason": "Source type cannot be confirmed from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Are we cultivating the perfect storm for a human avian influenza pandemic?",
+  "reason": "Source type cannot be determined from title and venue alone and the interrogative title suggests a non-research opinion piece.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Panzootic HPAIV H5 and risks to novel mammalian hosts",
+  "reason": "Source type cannot be confirmed as research/preprint/review/report from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "The Alarming Situation of Highly Pathogenic Avian Influenza Viruses in 2019–2023",
+  "reason": "Source type cannot be confidently determined from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Control of highly pathogenic avian influenza through vaccination",
+  "reason": "Source type cannot be determined from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Jumping species and seasons – the spread and impact of highly pathogenic avian influenza on seabirds and waterbirds",
+  "reason": "Source type cannot be confidently determined as research/preprint/review/report from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "To vaccinate or not against highly pathogenic avian influenza?",
+  "reason": "Source type cannot be confirmed as research/review/report from title and venue alone, so uncertain.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Avian Influenza in Low and Middle-Income Countries (LMICs): Outbreaks, Vaccination Challenges and Economic Impact",
+  "reason": "Source type cannot be determined from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Epidemiology and Pandemic Risk Assessment of Avian Influenza",
+  "reason": "Source type cannot be confirmed from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Intensive transmission in wild, migratory birds drove rapid geographic dissemination and repeated spillovers of H5N1 int",
+  "reason": "Title explicitly names H5N1 and wild bird transmission with spillover to agriculture, and venue is a preprint server.",
+  "q1": "yes",
+  "q2": "preprint",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Building global preparedness for avian influenza",
+  "reason": "Source type and scope cannot be confirmed from title, venue and year alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "High-pathogenicity avian influenza in wildlife: a changing disease dynamic that is expanding in wild birds and having an",
+  "reason": "Source type cannot be determined with certainty from the title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Hot topic: Influenza A H5N1 virus exhibits a broad host range, including dairy cows",
+  "reason": "Source type cannot be confidently determined from venue and 'Hot topic:' title, so classification is unclear.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Evolution and biological characteristics of the circulated H8N4 avian influenza viruses",
+  "reason": "Title concerns H8N4 avian influenza, not the required H5/H5N1/HPAI/A(H5Nx) focus.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Avian influenza spillover to humans: Are we prepared to deal with another potential pandemic?",
+  "reason": "Source type cannot be confirmed as research/review/report from title and venue alone, and the interrogative title suggests a possible opinion piece.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Weathering the Storm of High Pathogenicity Avian Influenza in Waterbirds",
+  "reason": "Source type cannot be confidently determined from venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Avian influenza, new aspects of an old threat",
+  "reason": "Source type cannot be confidently determined as research/review/report from title and venue alone, so classification is uncertain.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Myxovirus resistance (Mx) Gene Diversity in Avian Influenza Virus Infections",
+  "reason": "Source type cannot be confirmed as research/review from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "The Drivers of Pathology in Zoonotic Avian Influenza: The Interplay Between Host and Pathogen",
+  "reason": "Source type cannot be determined from title and venue alone, so Q2 is unclear.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Geographical and Historical Patterns in the Emergences of Novel Highly Pathogenic Avian Influenza (HPAI) H5 and H7 Virus",
+  "reason": "Source type cannot be determined with certainty from title and venue alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "RETRACTED: Glycine Nano-Selenium Enhances Immunoglobulin and Cytokine Production in Mice Immunized with H9N2 Avian Influ",
+  "reason": "Title concerns H9N2 avian influenza vaccine, not H5/H5N1/HPAI/A(H5Nx) viruses.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Apoptosis induction and release of inflammatory cytokines in the oviduct of egg-laying hens experimentally infected with",
+  "reason": "Title concerns H9N2 avian influenza, which is not H5/H5N1/HPAI/A(H5Nx) as specified for relevance.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Economic factors promoting vaccine nationalism in the face of viral evolution.",
+  "reason": "Title does not mention avian influenza or H5/H5N1 and concerns economic vaccine nationalism rather than virology or surveillance.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Highly pathogenic avian influenza A(H5N1) in domestic cats: epidemiology, clinical manifestations, and One Health implic",
+  "reason": "Source type cannot be confirmed as research/preprint/review/report from venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Overview of adult immunization in Finland: Successes, lessons learned and the way forward.",
+  "reason": "Title concerns general adult immunization in Finland with no mention of avian influenza.",
+  "q1": "no",
+  "q2": "review",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Clinical and public health economic impact of rapid strain-matched vaccination in influenza pandemic mitigation: A UK-li",
+  "reason": "Title mentions generic influenza pandemic mitigation without explicit avian influenza H5/H5N1/HPAI/A(H5Nx) naming.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Host cell entry receptors as pharmacological targets in respiratory viral infections: from biology to clinical translati",
+  "reason": "Title refers generically to respiratory viral infections without explicit avian influenza H5/H5N1/HPAI mention.",
+  "q1": "no",
+  "q2": "unclear",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Novel avian calicivirus genome with type IV internal ribosomal entry site (IRES) in black-headed gull (Chroicocephalus r",
+  "reason": "Title concerns avian calicivirus, not avian influenza H5/H5N1/HPAI/A(H5Nx).",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Exploring community awareness and perspectives on zoonotic disease in Nepal: a qualitative study.",
+  "reason": "Title mentions generic zoonotic disease without explicit avian influenza and focuses on community awareness rather than in-scope virology or surveillance.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Medicinal Plants in Poultry During Post-Antibiotic Era in One-Health Approach: An Extensive Review.",
+  "reason": "Title does not mention avian influenza or related virology and concerns medicinal plants in poultry, not influenza-specific host response or surveillance.",
+  "q1": "no",
+  "q2": "review",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Advances in Genetic Transformation of Lotus corniculatus: Methodological Determinants, Applications and Future Prioritie",
+  "reason": "Title concerns plant genetic transformation of Lotus corniculatus with no avian influenza content.",
+  "q1": "no",
+  "q2": "review",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Contrast-Enhanced CT of the Coelom in a Female Bald Eagle (Haliaeetus leucocephalus): Development of a Preliminary CT-Ba",
+  "reason": "Title concerns CT anatomical segmentation in a bald eagle with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Exploring integrated advice and avian influenza knowledge gaps by using a Highly Pathogenic Avian Influenza outbreak sim",
+  "reason": "Primary subject appears to be integrated advice and knowledge gaps rather than a clearly in-scope virology, host, or surveillance topic.",
+  "q1": "yes",
+  "q2": "research",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Genetic Diversity, Reassortment Patterns, and Antigenic Characterization of Two H9N2 Avian Influenza Viruses Isolated fr",
+  "reason": "Title concerns H9N2 avian influenza viruses, not H5/H5N1/HPAI/A(H5Nx).",
+  "q1": "no",
+  "q2": "research",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Neutralizing and protective monoclonal antibodies identify antigenic sites in influenza H7 hemagglutinin and select for ",
+  "reason": "Title mentions influenza H7 hemagglutinin without explicitly naming avian influenza, so relevance cannot be confirmed from title alone.",
+  "q1": "unclear",
+  "q2": "research",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Functional characterization of the IFN-γ protein in mediating antiviral defence against Newcastle disease Virus in Larus",
+  "reason": "Title concerns Newcastle disease virus not avian influenza.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Innate Immune Responses Induced by H9N2 Influenza A Virus and Klebsiella pneumoniae Co-Infection.",
+  "reason": "Title mentions H9N2 influenza A virus co-infection without explicit H5/H5N1/HPAI avian influenza naming, making relevance to the H5-focused corpus uncertain.",
+  "q1": "unclear",
+  "q2": "research",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Nucleocapsid-like cryo-EM structure of influenza B virus.",
+  "reason": "Title concerns influenza B virus, not avian influenza H5/H5N1/HPAI/A(H5Nx).",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Shared viral burdens: Molecular evidence of Usutu virus infection and multi-arbovirus exposure in migrant and resident b",
+  "reason": "Title concerns Usutu virus and arbovirus exposure in birds, with no mention of avian influenza H5/H5N1/HPAI/A(H5Nx).",
+  "q1": "no",
+  "q2": "research",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "GSNOR-dependent nitric oxide homeostasis promotes recovery from repeated climate stress across generations in Arabidopsi",
+  "reason": "Title concerns Arabidopsis climate stress nitric oxide homeostasis, not avian influenza.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "The chloroplast CLP chaperone-protease system controls the steady-state abundance of the singlet oxygen sensors EXCUTER ",
+  "reason": "Title concerns chloroplast chaperone-protease and singlet oxygen sensors with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Detection of circovirus and herpesvirus co-infection in suddenly dead.",
+  "reason": "Title mentions circovirus and herpesvirus co-infection with no mention of avian influenza or influenza-related topics.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Aggrecan hypomorphism accelerates the progression of post-traumatic osteoarthritis in mice",
+  "reason": "Title concerns osteoarthritis in mice with no mention of avian influenza.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Modulation of Avian Iridescence via Melanogenesis",
+  "reason": "Title concerns avian coloration melanogenesis with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Exploring Potential Minocycline-ARH3 Interactions in ADPRHL2-Associated CONDSIAS: A Translational Clinical and Computati",
+  "reason": "Title does not mention avian influenza or related virology and is about minocycline-ARH3 interactions in CONDSIAS.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Highly pathogenic avian influenza A(H5N1) in domestic cats: epidemiology, clinical manifestations, and One Health implic",
+  "reason": "Source type cannot be determined from unknown venue and title.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "A bivalent inactivated influenza vaccine incorporating epitope-optimized surface proteins confers cross-protective immun",
+  "reason": "Title mentions H9N2 influenza virus without explicit avian influenza or H5/H5N1/HPAI/A(H5Nx) naming, so relevance to the specified avian influenza focus cannot be confirmed from title alone.",
+  "q1": "unclear",
+  "q2": "research",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Parameterization of the PA Endonuclease Bimetallic Center Reveals the Dynamics of Clinically Relevant Mutations.",
+  "reason": "Title does not explicitly name avian influenza H5/H5N1/HPAI/A(H5Nx) and no verbatim avian influenza term can be quoted from the title.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Predicting the Risk of Avian Influenza Zoonosis using Viral Genome Sequencing Data",
+  "reason": "Source type cannot be confirmed from unknown venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Genotype-specific ecological and environmental drivers of HPAI H5N1 spread in wild birds in France, 2021-2023",
+  "reason": "Source type cannot be confirmed from unknown venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Atypical RanGAP drives nucleocytoplasmic transport in a parasitic Alveolate",
+  "reason": "Title does not mention avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "No evidence of H5N1 avian influenza virus infection in Japanese horses in 2025.",
+  "reason": "Title clearly concerns H5N1 avian influenza but the primary subject is horses, which are not among the listed in-scope spillover mammals.",
+  "q1": "yes",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Animal organoids as models for integrated One Health research.",
+  "reason": "Title does not mention avian influenza or related virology and provides no clear evidence of relevance from title alone.",
+  "q1": "no",
+  "q2": "unclear",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Experimental reproduction numbers disentangle vaccine effects on susceptibility and infectiousness during H5N1 transmiss",
+  "reason": "Source type cannot be confirmed from unknown venue and future year, so classification is uncertain.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Detection and characterization of antiviral-resistant viruses during the influenza season of 2024-25.",
+  "reason": "Title refers to influenza season generally without explicit avian influenza naming, so relevance to avian influenza cannot be confirmed from the title.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "The first high pathogenicity avian influenza A(H5N1) clade 2.3.4.4b incursions in the Hunter New England region, New Sou",
+  "reason": "Venue year 2018 conflicts with publication year 2026 making source type uncertain.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Influenza A virus H5N1 genotypes B3.13 and D1.1 show temperature-dependent restriction of replication in primary human r",
+  "reason": "Source type cannot be determined from unknown venue, so classification is uncertain.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Closing Remarks for the Special Issue on Coronaviruses and Influenza Viruses: Evolution, Cross-Species Transmission, and",
+  "reason": "Title mentions influenza viruses generally with coronaviruses and is a closing remarks editorial, not explicitly avian influenza H5/H5N1/HPAI.",
+  "q1": "no",
+  "q2": "opinion",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "A GIS-based framework for standardized environmental characterization in One-Health surveillance: a case study of HPAI m",
+  "reason": "Venue is unknown so source type cannot be confirmed from supplied metadata.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "IMPAIRED NEURAMINIDASE AND POLYMERASE ACTIVITIES CORRESPOND WITH LIMITED AEROSOL INFECTIVITY OF B3.13 AND D1.1 H5N1 LINE",
+  "reason": "Source type cannot be confirmed from unknown venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Lysosome-related organelle genes are required for mitochondrial transformations during bacterial infections in Caenorhab",
+  "reason": "Title concerns bacterial infection in C. elegans and lysosome-related organelles, with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Global patterns of helminths associated with gelatinous zooplankton: a missing link in marine parasite transmission",
+  "reason": "Title concerns marine helminths and zooplankton, not avian influenza.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Pathogen-dependent biocontrol activity of Chlorella sorokoniana aqueous extracts against fungal and oomycete plant patho",
+  "reason": "Title concerns plant pathogen biocontrol with Chlorella, not avian influenza.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Massively parallel characterization of adolescent idiopathic scoliosis risk variants",
+  "reason": "Title concerns adolescent idiopathic scoliosis risk variants with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Why We Must Vaccinate US Dairy Cattle Against HPAI H5N1.",
+  "reason": "Title indicates an advocacy/opinion essay on vaccination, which is not an acceptable source type.",
+  "q1": "yes",
+  "q2": "opinion",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Ferroptosis: significance to zoonotic diseases and therapeutic prospects.",
+  "reason": "Title mentions zoonotic diseases generally but does not clearly concern avian influenza H5/H5N1/HPAI.",
+  "q1": "no",
+  "q2": "review",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Recent Advances in CRISPR/Cas Systems for Respiratory Pathogen Diagnostics.",
+  "reason": "Title is generic respiratory pathogen diagnostics with no explicit avian influenza H5/H5N1/HPAI mention.",
+  "q1": "no",
+  "q2": "review",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Shared texture-like representations, not global form, underlie deep neural network alignment with human visual processin",
+  "reason": "Title concerns deep neural network visual processing and contains no avian influenza content.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Disruption of the Homer1 coiled-coiled domain by a novel de novo human HOMER1 variant impairs protein scaffolding, calci",
+  "reason": "Title concerns human HOMER1 synaptic function with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Structural basis for alternative 3' splice site selection in the human spliceosome active center",
+  "reason": "Title concerns human spliceosome splicing and does not mention avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Coronary Artery Disease Transcriptomics Reveals Two Drivers of the Endothelial Cell SR-BI Expression and LDL Transport t",
+  "reason": "Title concerns coronary artery disease and atherosclerosis with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Molecular Insights into High-Pathogenicity RNA Viruses.",
+  "reason": "Title does not explicitly name avian influenza or H5/HPAI and is generic to high-pathogenicity RNA viruses, so relevance cannot be confirmed from title alone.",
+  "q1": "no",
+  "q2": "unclear",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Multi-biobank genome-wide association study of dermatochalasis implicates genes involved in skin biology and morphology",
+  "reason": "Title concerns dermatochalasis genetics with no mention of avian influenza.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Continuous Value Tokenization Improves Medical Event Foundation Models",
+  "reason": "Title does not mention avian influenza or related virology and concerns medical event foundation models.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Structure-aware deep learning predicts influenza antigenicity and guides vaccine strain recommendation",
+  "reason": "Title mentions influenza generally without explicit avian H5/H5N1 reference and venue is unknown so relevance and source type cannot be confirmed.",
+  "q1": "no",
+  "q2": "unclear",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "FoxO factors preserve airway epithelial homeostasis by coordinating adaptive stress responses",
+  "reason": "Title does not mention avian influenza or influenza-specific host response and provides no clear avian influenza relevance.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Spatial transcriptomics resolves ductal TREM2+ and stromal FOLR2+ macrophages in the normal human breast at microanatomi",
+  "reason": "Title concerns human breast macrophages with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Excessive feeding induces development of a colony-like body plan in paratomous flatworms",
+  "reason": "Title concerns flatworm development with no avian influenza content.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Intertwined Autophagy and Integrin Dynamics Shape Axon Growth and Regeneration",
+  "reason": "Title concerns axon growth and autophagy with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Nutrient environments shape amino acid auxotrophy and cross-feeding",
+  "reason": "Title does not mention avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Dual-strain Bacillus subtilis 597 and 600 complex improves productive performance and nutrient digestibility, egg qualit",
+  "reason": "Title concerns Bacillus subtilis probiotic effects on laying hens with no mention of avian influenza.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Pangenome discovery and characterization of human protein-coding duplicated genes",
+  "reason": "Title does not mention avian influenza or related host response/virology and is about human pangenome duplicated genes.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "General Assessment of Indole Derivatives and Wnt Pathway as Potential Key Factors Against Various Diseases, with Particu",
+  "reason": "Title concerns indole derivatives, Wnt pathway and thyroid tumors with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "review",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Schema-Grounded Multitask Instruction Fine-tuning for Joint Biomedical Named Entity Recognition and Relation Extraction ",
+  "reason": "Title concerns pharmacovigilance NLP for biomedical NER/relation extraction with no mention of avian influenza.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Ancient DNA reveals matrilineal organisation and recurrent unions between dominant matrilines in Iron Age Britain",
+  "reason": "Title concerns Iron Age human matrilineal organisation with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Hoverfly responses to looming stimuli depend on elevation and speed",
+  "reason": "Title concerns hoverfly visual behavior with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Photoinitiator-free visible-light bioprinting: minimising radical-induced oxidative stress and DNA damage in gelatin hyd",
+  "reason": "Title concerns bioprinting and gelatin hydrogels with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Structural heterogeneity reveals distinct amyloidopathies in Alzheimer's disease",
+  "reason": "Title concerns Alzheimer's amyloidopathies with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "jazzPanda: spatially aware marker gene detection for imaging-based spatial transcriptomics",
+  "reason": "Title concerns spatial transcriptomics marker detection with no mention of avian influenza.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Identifying Distinct Tourette Disorder Subtypes using Clinical Data",
+  "reason": "Title concerns Tourette disorder, not avian influenza.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "PANCS-Inhibitors: A rapid method to directly select for protein-protein interaction inhibitors",
+  "reason": "Title does not mention avian influenza or related virology and provides no evidence of relevance from title, venue, or year alone.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Geographical structure and evolutionary trajectories of Streptococcus pneumoniae serotype 19F lineages in South Africa",
+  "reason": "Title concerns Streptococcus pneumoniae, not avian influenza.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Genomic Feature Transformation for Multi-Omics Integration in Clinical Prediction Models",
+  "reason": "Title does not mention avian influenza or related virology/host response.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "RVQ-Alpha: Bridging Single-Cell Transcriptomics and Large Language Models via Hierarchical Discrete Tokenization and Fac",
+  "reason": "Title does not mention avian influenza or related virology and is about single-cell transcriptomics and language models.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Deep Learning of Fluorescence Lifetime Imaging Ophthalmoscopy for Type 2 Diabetes Classification",
+  "reason": "Title concerns type 2 diabetes ophthalmic imaging with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Higher Blood-to-Tissue Tumor Mutational Burden Ratio Is Associated With Poorer Overall Survival in Advanced Non-Small Ce",
+  "reason": "Title concerns lung cancer tumor mutational burden, not avian influenza.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Genetic characterization of Parkinsons Disease in a Chilean cohort",
+  "reason": "Title concerns Parkinson's disease genetics with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Characterizing large language model generative artificial intelligence variability in the production of objective struct",
+  "reason": "Title concerns LLM variability for clinical exam stations with no mention of avian influenza.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Heritability of Age-Related Macular Degeneration in the Amish",
+  "reason": "Title concerns age-related macular degeneration in Amish, not avian influenza.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Moving towards stability: Sleep and cognition across six years of community dance in Parkinsons disease",
+  "reason": "Title concerns Parkinson's disease dance and sleep cognition with no mention of avian influenza.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Cell-type-specific DNA methylation patterns associated with suicide are enriched in excitatory neurons",
+  "reason": "Title concerns suicide DNA methylation in excitatory neurons with no mention of avian influenza.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Neuro-Adverse Events Associated with GLP-1 Receptor Agonists: A Study Based on the FAERS Database and External Validatio",
+  "reason": "Title concerns GLP-1 receptor agonist neuro-adverse events, with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Towards understanding the disease landscape of clinical trials in Germany: Ontology and embedding-based pipelines versus",
+  "reason": "Title concerns ICD-10 harmonization for German clinical trials and does not mention avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Special Collection: Abstracts from IUNS-ICN Paris 2025",
+  "reason": "Title does not mention avian influenza and provides no evidence of relevance from title, venue or year alone.",
+  "q1": "no",
+  "q2": "unclear",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Age and CMV are not associated with clinical or immunological response to immune checkpoint blockade",
+  "reason": "Title concerns immune checkpoint blockade and CMV, not avian influenza.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Classification, functions, evolution, and applications of defective viral genomes.",
+  "reason": "Title does not mention avian influenza or H5/HPAI and is generic to defective viral genomes.",
+  "q1": "no",
+  "q2": "review",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Microneedles for Vaccination: Mechanistic Foundations, Materials Innovation, Clinical Translation, and Global Health Imp",
+  "reason": "Title does not mention avian influenza or related H5/HPAI topics and is about microneedle vaccination generally.",
+  "q1": "no",
+  "q2": "review",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "TLS-Tractor: A transfer learning framework for incorporating summary-statistics into local ancestry-aware GWAS in admixe",
+  "reason": "Title does not mention avian influenza and the primary subject is a general GWAS transfer learning method with no clear avian influenza focus.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Cross-Family Mechanistic Analysis of Plant Alkaloids Against Neglected Arboviruses and Related RNA Viruses.",
+  "reason": "Title mentions neglected arboviruses and related RNA viruses with no explicit avian influenza H5/H5N1/HPAI reference.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Editorial: Cross-species transmission of viral infections.",
+  "reason": "Title does not explicitly mention avian influenza or H5/H5N1/HPAI and is a generic editorial on cross-species viral transmission.",
+  "q1": "no",
+  "q2": "opinion",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Editorial: Perspectives in veterinary and zoonotic infection: 2025.",
+  "reason": "Title does not explicitly mention avian influenza and is an editorial, not a focused research study.",
+  "q1": "no",
+  "q2": "opinion",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "Genome-wide CRISPR screen identifies RNF24 as a critical host factor for foot-and-mouth disease virus entry.",
+  "reason": "Title concerns foot-and-mouth disease virus entry, not avian influenza H5/H5N1/HPAI/A(H5Nx).",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "mTORC1 Promotes SARS-CoV-2 Replication and Attenuates Type I Interferon Responses in the Alveolar Epithelium: A Computat",
+  "reason": "Title concerns SARS-CoV-2 in alveolar epithelium, not avian influenza H5/H5N1/HPAI/A(H5Nx).",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Serological Detection of O-Type and A-Type Antibodies Against Foot-and-Mouth Disease in Tongliao City, 2021-2022.",
+  "reason": "Title concerns foot-and-mouth disease serology, not avian influenza.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Nucleases and Their Inhibitors: Exploring Biological Roles, Industrial Applications, and Challenges in Heterologous Expr",
+  "reason": "Title does not mention avian influenza or related virology and is about nucleases generally.",
+  "q1": "no",
+  "q2": "unclear",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Evolutionary Response Patterns of the Rodent TLR Genes to Climatic Factors.",
+  "reason": "Title concerns rodent TLR evolution with climate and does not mention avian influenza or related virology.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Beak and feather disease virus variant-dependent antibody reactivity in naturally infected psittacine birds.",
+  "reason": "Title concerns beak and feather disease virus in psittacine birds, not avian influenza.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Mitigating antimicrobial resistance in the animal industry: reduction strategies and alternatives to antibiotics.",
+  "reason": "Title concerns antimicrobial resistance in animal industry with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "unclear",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Arboviral infections of the central nervous system: Mechanisms of invasion and long-term consequences.",
+  "reason": "Title concerns arboviral CNS infections with no mention of avian influenza H5/H5N1/HPAI/A(H5Nx).",
+  "q1": "no",
+  "q2": "unclear",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Asian consensus on diagnostic algorithm for invasive pulmonary fungal diseases in high-burden settings.",
+  "reason": "Title concerns invasive pulmonary fungal diseases, not avian influenza.",
+  "q1": "no",
+  "q2": "review",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Trends in Tick-Borne Virus Ecology: Vector Incrimination, Focal Distribution, and Reservoir Associations.",
+  "reason": "Title concerns tick-borne virus ecology, not avian influenza.",
+  "q1": "no",
+  "q2": "review",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "A Review: Bovine Coronavirus Evolution, Molecular Epidemiology, and Genetic Variation.",
+  "reason": "Title concerns bovine coronavirus, not avian influenza.",
+  "q1": "no",
+  "q2": "review",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "The Important Role of Superoxide Dismutase 2 in Controlling Poxvirus Proliferation and Pathogenicity.",
+  "reason": "Title concerns poxvirus proliferation and pathogenicity, not avian influenza.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Probiotics in Poultry: A Comprehensive Review of Mechanisms, Applications, and Future Directions.",
+  "reason": "Title does not mention avian influenza or related virology and concerns probiotics in poultry generally.",
+  "q1": "no",
+  "q2": "review",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Drivers of the paradigm shift in norovirus diagnostics: technological innovation, contextual demands, and collaborative ",
+  "reason": "Title concerns norovirus diagnostics, not avian influenza.",
+  "q1": "no",
+  "q2": "review",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Synergies and Trade-Offs in Modern Poultry Nutrition: An Integrated Framework Linking Animal Health, Productivity and Gr",
+  "reason": "Title concerns poultry nutrition and greenhouse gas mitigation with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "review",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Modelling African Swine Fever Transmission and Epidemiology: A Scoping Review of Mechanistic, Statistical, and Machine L",
+  "reason": "Title concerns African Swine Fever, not avian influenza H5/H5N1/HPAI/A(H5Nx) or related avian influenza topics.",
+  "q1": "no",
+  "q2": "review",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Comparative genomic analysis of pigs differing in survival following African swine fever virus infection.",
+  "reason": "Title concerns African swine fever virus in pigs, not avian influenza.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "How do anthropogenic changes affect wildlife microbiomes?",
+  "reason": "Title does not mention avian influenza or related virology and concerns wildlife microbiomes generally.",
+  "q1": "no",
+  "q2": "unclear",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Rpf-Toxo: A Preliminary Computationally Designed Dense Granule Antigen-Based Multi-Epitope Vaccine Against Toxoplasma go",
+  "reason": "Title concerns Toxoplasma gondii vaccine, not avian influenza.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Plant-Produced Vaccines for Protection from Human and Veterinary Coronaviruses.",
+  "reason": "Title concerns plant-produced vaccines for coronaviruses, not avian influenza H5/H5N1/HPAI/A(H5Nx) or related topics.",
+  "q1": "no",
+  "q2": "unclear",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Genetic Determinants of Infectious Diseases in the Qatari Population.",
+  "reason": "Title does not mention avian influenza or H5/HPAI and is generic infectious disease genetics, so relevance cannot be confirmed from supplied text.",
+  "q1": "no",
+  "q2": "unclear",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Immuno-Informatics Design of Multi-Epitope Vaccine Candidate Against Anaplasma phagocytophilum Using Major Surface Prote",
+  "reason": "Title concerns Anaplasma phagocytophilum vaccine design, not avian influenza.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Porcine deltacoronavirus nucleocapsid protein inhibits RIG-I signaling pathway by suppressing G3BP1-mediated stress gran",
+  "reason": "Title concerns porcine deltacoronavirus RIG-I signaling, not avian influenza.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Transferrin receptor 1 is required for efficient hepatitis E virus production.",
+  "reason": "Title concerns hepatitis E virus, not avian influenza H5/H5N1/HPAI/A(H5Nx) or related topics.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Advances in the Development of a Universal Influenza Vaccine.",
+  "reason": "Title mentions universal influenza vaccine but does not explicitly name avian influenza H5/H5N1/HPAI/A(H5Nx).",
+  "q1": "no",
+  "q2": "review",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Development of a Visual Rapid Assay for Novel Goose Astrovirus Detection Based on RT-MIRA -PfAgo.",
+  "reason": "Title concerns goose astrovirus detection, not avian influenza H5/H5N1/HPAI/A(H5Nx).",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Norovirus inter-species transmission in an ex vivo model is dependent on virus internalization capacity.",
+  "reason": "Title concerns norovirus inter-species transmission, not avian influenza.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Beyond Antioxidant Activity: Redox-Inflammatory Network Modulation as a Framework for the Multi-Organ Pharmacology of Mo",
+  "reason": "Title concerns Moringa oleifera pharmacology with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "unclear",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "How illegal wildlife trade adheres to and defies conventional market behavior.",
+  "reason": "Title concerns illegal wildlife trade market behavior with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Pathway-specific short-term synaptic dynamics and lateral inhibition shape frequency-dependent input integration and pop",
+  "reason": "Title concerns dentate gyrus synaptic dynamics with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Alignment-free prediction of cross-reactivity in influenza A (H3N2) anticipates antigenic drift.",
+  "reason": "Title concerns seasonal influenza A H3N2, not avian influenza H5/H5N1/HPAI/A(H5Nx) or related avian topics.",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Departure from OFF-State Microstate Dynamics Tracks Levodopa Response in Parkinson's Disease",
+  "reason": "Title concerns Parkinson's disease levodopa response with no mention of avian influenza.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Surveying Concerns about the Future in People with Parkinsons Disease",
+  "reason": "Title concerns Parkinson's disease and contains no avian influenza content.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "HSV-1 metabolic hijacking: Mechanisms to precision therapeutics.",
+  "reason": "Title concerns HSV-1, not avian influenza H5/H5N1/HPAI/A(H5Nx) or related influenza topics.",
+  "q1": "no",
+  "q2": "unclear",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Surface-Enhanced Raman Spectroscopy for Viral Diagnostics: Principles, Strategies, Clinical Challenges, and Future Direc",
+  "reason": "Title concerns generic viral diagnostics with no mention of avian influenza or related hosts/pathology.",
+  "q1": "no",
+  "q2": "review",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Harnessing macrophage signaling pathways and scalable engineering for next-generation immunotherapies.",
+  "reason": "Title does not mention avian influenza or related viruses and is not clearly about influenza host response or surveillance.",
+  "q1": "no",
+  "q2": "unclear",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Effectiveness of an automated text message intervention for weight management in postpartum women with overweight or obe",
+  "reason": "Title concerns postpartum weight management via text messages and contains no avian influenza content.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "One Health in Mesoamerica: historical legacies, current challenges, and strategic directions.",
+  "reason": "Title does not mention avian influenza or related virology and provides no clear avian influenza focus.",
+  "q1": "no",
+  "q2": "unclear",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "The Prognostic Value of CanAssist Breast in Patients <=50 Years: A Retrospective Study",
+  "reason": "Title concerns breast cancer prognostic test, not avian influenza.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Association between thyroid function and thyroid homeostasis parameters and female urinary incontinence: A population-ba",
+  "reason": "Title concerns thyroid function and female urinary incontinence with no mention of avian influenza or related virology.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "The EHR Density Index: A new method to control for EHR data inconsistency across patients",
+  "reason": "Title concerns EHR data inconsistency and does not mention avian influenza.",
+  "q1": "no",
+  "q2": "preprint",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Emerging Haemagglutinin Mutations in Bovine-origin H5N1 Influenza Viruses from Humans and Cattle Retain Avian Receptor B",
+  "reason": "Source type cannot be confirmed from unknown venue and title alone.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Host nucleolin-targeting unique peptide drugs as potent broad-spectrum anti-influenza therapies.",
+  "reason": "Title mentions broad-spectrum anti-influenza but does not explicitly name avian influenza H5/H5N1/HPAI/A(H5Nx), so relevance to avian influenza is unclear from title alone.",
+  "q1": "unclear",
+  "q2": "research",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Compensatory Mutations in Avian Influenza H7N1 Hemagglutinin Drive Avian Host Adaptation and Antigenic Drift without Enh",
+  "reason": "Venue is unknown so source type cannot be confirmed as an acceptable research/preprint/review/report.",
+  "q1": "yes",
+  "q2": "unclear",
+  "q3": "yes",
+  "q4_dup": null
+ },
+ {
+  "title": "Adaptive Advantage of the Emerging Seasonal Influenza A (H3N2) Subclade K: Enhanced Receptor Binding Capacity and Immune",
+  "reason": "Title concerns seasonal influenza A H3N2 and does not explicitly mention avian influenza H5/H5N1/HPAI/A(H5Nx).",
+  "q1": "no",
+  "q2": "research",
+  "q3": "no",
+  "q4_dup": null
+ },
+ {
+  "title": "Some Exposure for Influenza Hemagglutinin Interface Antibodies.",
+  "reason": "Title mentions influenza hemagglutinin antibodies generally but does not explicitly name avian influenza H5/H5N1/HPAI/A(H5Nx), so relevance to avian influenza is not clear from title alone.",
+  "q1": "unclear",
+  "q2": "review",
+  "q3": "unclear",
+  "q4_dup": null
+ },
+ {
+  "title": "The receptor landscape of influenza A viruses.",
+  "reason": "Title does not explicitly name avian influenza and no verbatim avian-specific fragment can be quoted from the title.",
+  "q1": "unclear",
+  "q2": "research",
+  "q3": "unclear",
+  "q4_dup": null
+ }
+]

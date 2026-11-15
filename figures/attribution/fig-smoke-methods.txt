@@ -1,0 +1,8 @@
+Attribution — fig-smoke-methods
+===============================
+
+• Chromosome and nucleosomes — by Cristoffer Sevilla
+    Source: reactome <https://reactome.org/icon-lib>
+    License: CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>
+    Credit: Cristoffer Sevilla. Chromosome and nucleosomes. Reactome Icon Library. https://reactome.org/icon-lib (CC BY 4.0)
+

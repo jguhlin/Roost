@@ -1,0 +1,13 @@
+{
+  "figure": "fig-rate-and-antigenic-impact-of-ha-evolut-auto",
+  "kind": "gap-map (agent-proposed)",
+  "title": "HA evolution vs WHO CVV evidence gap map",
+  "caption": "Evidence coverage is limited to isolated substitution mentions and lineage-specific rate estimates with no antigenic comparison to WHO CVVs.",
+  "page": "rate-and-antigenic-impact-of-ha-evolution-in-clade-2344b-relative-to",
+  "generated": "2026-10-05",
+  "assets": [],
+  "attribution_summary": "",
+  "sources": [],
+  "spec": "figures/specs/fig-rate-and-antigenic-impact-of-ha-evolut-auto.json",
+  "from_proposal": "rate-and-antigenic-impact-of-ha-evolution-in-clade-2344b-relative-to"
+}

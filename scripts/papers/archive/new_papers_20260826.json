@@ -1,0 +1,135 @@
+{
+  "search_date": "2026-08-26T17:52:24.360475",
+  "days_searched": 14,
+  "sources": [
+    "pubmed"
+  ],
+  "total_found": 9,
+  "new_papers": [
+    {
+      "source": "pubmed",
+      "pmid": "42625450",
+      "title": "Computational insights into the inhibitory potential of cyclotides Psyle B and Psyle C against key surface proteins of avian influenza H5N1.",
+      "authors": "Altaf S et al.",
+      "journal": "Journal of biomolecular structure & dynamics",
+      "year": 2026,
+      "doi": "10.1080/07391102.2026.2717568",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42625450/",
+      "query": "H5N1 avian influenza wild birds",
+      "category": "Wild Birds",
+      "topics": [
+        "H5N1"
+      ],
+      "summary": "",
+      "cited_for": ""
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42594285",
+      "title": "Development of a multi-species luciferase-based double-antigen ELISA for the detection of antibodies against influenza A virus H5 clade 2.3.4.4b.",
+      "authors": "Aebischer A et al.",
+      "journal": "Journal of clinical microbiology",
+      "year": 2026,
+      "doi": "10.1128/jcm.01907-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42594285/",
+      "query": "H5N1 avian influenza wild birds",
+      "category": "Surveillance",
+      "topics": [
+        "Clade 2.3.4.4b",
+        "Surveillance"
+      ],
+      "summary": "",
+      "cited_for": ""
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42618581",
+      "title": "Avian influenza amplified age-related mortality in a long-lived seabird.",
+      "authors": "Courtens W et al.",
+      "journal": "Nature communications",
+      "year": 2026,
+      "doi": "10.1038/s41467-026-76726-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42618581/",
+      "query": "H5N1 clade 2.3.4.4b",
+      "category": "Seabirds",
+      "topics": [
+        "Seabirds"
+      ],
+      "summary": "",
+      "cited_for": ""
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42607626",
+      "title": "A novel candidate vaccine virus derived from Japan's first mammalian case of clade 2.3.4.4b A/H5N1 highly pathogenic avian influenza virus.",
+      "authors": "Suzuki Y et al.",
+      "journal": "Vaccine",
+      "year": 2026,
+      "doi": "10.1016/j.vaccine.2026.129048",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42607626/",
+      "query": "H5N1 clade 2.3.4.4b",
+      "category": "Cross-Species Transmission",
+      "topics": [
+        "H5N1",
+        "Clade 2.3.4.4b",
+        "Cross-Species",
+        "Pathology"
+      ],
+      "summary": "",
+      "cited_for": ""
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42429628",
+      "title": "Isolation and characterization of a clade 2.3.4.4b genotype D1.1 H5N1 virus from dairy cattle in Wisconsin.",
+      "authors": "Mezhenskaia D et al.",
+      "journal": "Journal of virology",
+      "year": 2026,
+      "doi": "10.1128/jvi.00761-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42429628/",
+      "query": "H5N1 clade 2.3.4.4b",
+      "category": "Cross-Species Transmission",
+      "topics": [
+        "H5N1",
+        "Clade 2.3.4.4b",
+        "Cross-Species"
+      ],
+      "summary": "",
+      "cited_for": ""
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42405777",
+      "title": "Receptor profiling and growth assessment of influenza A virus in porcine mammary and non-mammary tissues and derived cells.",
+      "authors": "Barron-Castillo U et al.",
+      "journal": "Journal of virology",
+      "year": 2026,
+      "doi": "10.1128/jvi.00615-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42405777/",
+      "query": "H5N1 clade 2.3.4.4b",
+      "category": "Wild Birds",
+      "topics": [
+        "Avian Influenza"
+      ],
+      "summary": "",
+      "cited_for": ""
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42632496",
+      "title": "Galectin-3 exacerbates influenza a virus pathogenesis via dual mechanisms: Promoting hemagglutinin-dependent entry and driving nlrp3 inflammasome activation.",
+      "authors": "Yang ZS et al.",
+      "journal": "International journal of biological macromolecules",
+      "year": 2026,
+      "doi": "10.1016/j.ijbiomac.2026.154155",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42632496/",
+      "query": "HPAI H5N1 host",
+      "category": "Host Genomics",
+      "topics": [
+        "Pathology"
+      ],
+      "summary": "",
+      "cited_for": ""
+    }
+  ]
+}

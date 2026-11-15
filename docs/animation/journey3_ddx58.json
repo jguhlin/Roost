@@ -1,0 +1,89 @@
+{
+ "gene": "DDX58",
+ "name": "DExD/H-box helicase 58 (RIG-I)",
+ "panel_tier": 1,
+ "literature": {
+  "papers": 89,
+  "studied": 88,
+  "reviewed_connections": 16,
+  "reviewed_evidence_items": 50,
+  "key_reference": {
+   "title": "Association of RIG-I with innate immunity of ducks to influenza",
+   "journal": "Proc Natl Acad Sci U S A",
+   "year": 2010,
+   "doi": "10.1073/pnas.1001755107"
+  },
+  "key_reference_summary": "Ducks and wild waterfowl perpetuate influenza viruses with little pathology, and ducks are often resistant to strains that kill chickens. This study shows the RNA sensor RIG-I is present in ducks and clears infection: RIG-I expression is induced ~200-fold early in the innate response of ducks challenged with H5N1 A/Vietnam/1203/04, and transfecting duck RIG-I into chicken DF-1 fibroblasts rescues ligand detection, IFN-beta promoter activity and restricts replication of low- and high-pathogenicity avian influenza viruses. The authors present evidence suggesting RIG-I may be absent in chickens, a plausible contributor to chickens' greater susceptibility. [Summary verified against the published abstract, PMID 20308570; earlier metadata (wrong title/journal/DOI 10.4049/jimmunol.0902471, 'pseudogene' claim) corrected 2026-11-10.]",
+  "key_reference_note": "verified against PubMed PMID 20308570 abstract; wording: RIG-I may be absent in chickens (NOT a confirmed pseudogene claim)",
+  "corpus_quote_for_loss": {
+   "paper": "comparative_analysis_host_responses_2024 (Smith et al. 2015, BMC Genomics, DOI 10.1186/s12864-015-1778-8)",
+   "quote": "Chickens (but not ducks) lack the intracellular receptor for viral ssRNA, RIG-I and the gene for an important RIG-I binding protein, RNF135."
+  },
+  "llm_profile_overview": "DDX58 encodes RIG-I, a cytoplasmic RNA helicase pattern recognition receptor that senses viral RNA and initiates type I interferon signaling during avian influenza infection. In birds, its presence or absence strongly shapes the early innate response to H5N1, with functional RIG-I in ducks associated with rapid interferon induction and control of virus replication, whereas galliform species lack a functional ortholog and show more severe HPAIV disease."
+ },
+ "orthology": {
+  "tier": 1,
+  "confidence": "high",
+  "og": "OG0011985",
+  "og_frac": 1.0,
+  "n_species_hit": 327
+ },
+ "presence_all": {
+  "species_searched": 2093,
+  "full_rows": 1792,
+  "fragment_rows": 351,
+  "not_found_rows": 245,
+  "high_confidence_absence_species": 39,
+  "interpretation_note": "BLAST non-detection on a well-searched genome; whether the underlying biology is full deletion or an undetectable degenerate remnant is NOT resolved by these data"
+ },
+ "galliform_loss": {
+  "high_confidence_species": [
+   "Afropavo congensis",
+   "Alectoris chukar",
+   "Alectoris graeca",
+   "Alectoris magna",
+   "Alectoris rufa",
+   "Arborophila gingica",
+   "Callipepla californica brunnescens",
+   "Callipepla squamata",
+   "Centrocercus minimus",
+   "Centrocercus urophasianus",
+   "Chrysolophus amherstiae",
+   "Chrysolophus pictus",
+   "Coturnix coturnix",
+   "Coturnix japonica",
+   "Crossoptilon crossoptilon",
+   "Crossoptilon mantchuricum",
+   "Cyrtonyx montezumae",
+   "Excalfactoria chinensis",
+   "Falcipennis canadensis",
+   "Gallus gallus",
+   "Gallus gallus gallus",
+   "Gallus gallus murghi",
+   "Lagopus leucura",
+   "Lagopus muta",
+   "Lophura nycthemera",
+   "Lyrurus tetrix",
+   "Meleagris gallopavo",
+   "Odontophorus gujanensis",
+   "Oreortyx pictus",
+   "Pavo cristatus",
+   "Pavo muticus",
+   "Perdix perdix",
+   "Phasianus colchicus",
+   "Polyplectron katsumatae",
+   "Syrmaticus mikado",
+   "Tetrao urogallus",
+   "Tragopan temminckii",
+   "Tympanuchus cupido pinnatus",
+   "Tympanuchus pallidicinctus"
+  ],
+  "boundary": {
+   "Penelope pileata (Cracidae)": "FULL (blast)",
+   "Alectura lathami (Megapodiidae)": "FULL (blast)",
+   "Numida meleagris (Numididae)": "FRAGMENT (blast)"
+  },
+  "anseriformes": "20/20 species FULL (16 annotation + 4 blast)",
+  "interpretation": "derived loss across Phasianidae+Odontophoridae; basal galliforms (cracid, megapode) retain DDX58; guineafowl fragment. Tip-pattern only — no ancestral-state reconstruction performed."
+ }
+}

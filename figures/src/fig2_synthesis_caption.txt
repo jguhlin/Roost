@@ -1,0 +1,43 @@
+**Figure 2. Synthesis over 1,366 papers
+reveals both deep and fragmented host-gene evidence.**
+(A) Evidence depth per host gene (3,502 study-subject genes;
+registry counts; log scale; integer bins 1–19, then ≥20): 2,517
+(71.9%) appear in exactly one
+paper and only 985 in two or more; the most-studied genes
+(IFNB1, TNF, IFNG, IL6, MX1, DDX58) each rest on 83–102 papers.
+(B) The 299 reviewed mechanism edges classify into six recurrent
+modules (261 edges in-module); innate sensing is the deepest
+(64 papers, 102 edges).
+(C) Positive control — Roost recovers the canonical ANP32–PB2 species
+barrier end-to-end: avian ANP32A (33-aa insertion) binds and supports the
+avian polymerase (10 reviewed evidence quotes on the
+ANP32A–PB2 edge), and the mammalian-adaptation markers PB2-E627K
+(179 papers), D701N (115) and
+the cattle-lineage M631L (52) are each recoverable
+with paper-level provenance.
+(D) DDX58 (RIG-I) detection per bird order, by how the call was
+made (best call per species, 431 screened H5N1-host species
+across 15 orders; mammals excluded — the avian-reference
+search yields fragmentary mammalian alignments). **Via annotation**
+(69 species): an NCBI gene record exists under DDX58 or a
+synonym (RIGI/RIG-I — NCBI records RIG-I as RIGI in many taxa, which
+exact-symbol matching missed); the annotation's judgement is used as-is.
+**BLAST, annotation misses it** (119): full-length search hit
+in a species whose NCBI annotation exists but does not include RIG-I.
+**BLAST, no annotation** (170): full-length hit in a species
+with no NCBI gene records — putative. Plus fragmentary hits and species
+where the gene was searched for and not found. Galliformes: 16 of
+19 species not found (15 high-confidence absences; sole
+detection: the basally divergent
+Alectura lathami), versus
+≤17% not-found in every other order
+(Anseriformes 2 of 99;
+5 orders 0). In the literature,
+7 of the 64 sensing-module papers report
+species differences, including chicken RIG-I (DDX58)/RNF135 loss
+(BMC Genomics (2024)) and the K172-deficient duck RIG-I
+(Avian Immunology (2022)); chickens retain the compensatory sensor
+MDA5 (IFIH1). The pattern is visible only when literature and genomes are
+read together. All numbers are generated from the same artifacts as the
+live site (data freeze 2026-10-29); annotation states from the alias-aware
+pipeline (gene_config aliases + NCBI taxon re-check).

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800" font-family="Lato, DejaVu Sans, sans-serif">
+  <!-- Fig v2 (MEDIA_PLAN: geographic story -> schematic map): wild-bird
+       dispersal of H5N1 2.3.4.4b. Stylized continents — schematic, not
+       cartographic. Briefing: how-wild-bird-mediated-dispersal-maintains-clade-2344b-h5n1 -->
+  <defs>
+    <marker id="rA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/>
+    </marker>
+    <marker id="bA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1d4ed8"/>
+    </marker>
+  </defs>
+
+  <rect width="1400" height="800" fill="#f8fafc"/>
+  <text x="40" y="56" font-size="30" font-weight="900" fill="#0f172a">Wild birds move it, coasts amplify it, Oceania awaits it</text>
+  <text x="40" y="86" font-size="16" fill="#475569">H5N1 clade 2.3.4.4b — dispersal by migration and foraging ecology (schematic map; continents stylized)</text>
+
+  <!-- ============ MAP AREA ============ -->
+  <g id="map">
+    <rect x="40" y="110" width="940" height="540" rx="18" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+
+    <!-- stylized continents -->
+    <g fill="#e2e8f0" stroke="#cbd5e1" stroke-width="2">
+      <path d="M 150 170 Q 240 140 340 170 Q 360 230 320 280 Q 250 320 180 290 Q 140 230 150 170 Z"/>
+      <path d="M 250 360 Q 320 350 340 400 Q 335 480 300 545 Q 265 560 240 500 Q 225 430 250 360 Z"/>
+      <path d="M 640 160 Q 800 130 950 165 Q 970 230 900 270 Q 760 285 660 240 Q 620 195 640 160 Z"/>
+      <path d="M 700 320 Q 790 310 820 370 Q 815 450 760 500 Q 715 470 700 400 Z"/>
+      <path d="M 880 480 Q 950 465 985 505 Q 985 560 925 570 Q 875 540 880 480 Z"/>
+    </g>
+
+    <!-- intercontinental introduction: Asia -> Americas over the top -->
+    <path d="M 880 180 Q 600 60 330 175" fill="none" stroke="#1d4ed8" stroke-width="4" stroke-dasharray="10 7" marker-end="url(#bA)"/>
+    <text x="600" y="108" font-size="13.5" fill="#1d4ed8" text-anchor="middle">intercontinental introductions — Americas invasion monophyletic</text>
+
+    <!-- Pacific coastal spread down the Americas -->
+    <path d="M 300 300 Q 285 400 285 480 Q 285 530 272 545" fill="none" stroke="#dc2626" stroke-width="5" marker-end="url(#rA)"/>
+    <text x="395" y="415" font-size="13.5" font-weight="700" fill="#dc2626">rapid spread along</text>
+    <text x="395" y="434" font-size="13.5" font-weight="700" fill="#dc2626">Pacific-coastal flyways</text>
+
+    <!-- Chile/Peru hotspot -->
+    <circle cx="272" cy="548" r="11" fill="#dc2626"/>
+    <text x="292" y="580" font-size="13.5" font-weight="700" fill="#dc2626">Chile · Peru</text>
+    <text x="292" y="598" font-size="12" fill="#475569">marine + colonial seabirds hit hardest</text>
+
+    <!-- Oceania gap -->
+    <circle cx="932" cy="525" r="46" fill="none" stroke="#d97706" stroke-width="3" stroke-dasharray="8 6"/>
+    <text x="932" y="520" font-size="12.5" font-weight="700" fill="#d97706" text-anchor="middle">Oceania</text>
+    <text x="932" y="592" font-size="11" fill="#d97706" text-anchor="middle">not yet affected</text>
+    <text x="932" y="607" font-size="11" fill="#d97706" text-anchor="middle">(as of Mar 2025)</text>
+
+    <!-- scale note -->
+    <text x="64" y="628" font-size="11" fill="#94a3b8" font-style="italic">schematic — not to geographic scale</text>
+  </g>
+
+  <!-- ============ EVIDENCE CARDS ============ -->
+  <g id="cards">
+    <rect x="1000" y="110" width="360" height="164" rx="14" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2.4"/>
+    <text x="1024" y="142" font-size="13" font-weight="700" fill="#1d4ed8">HOST-RANGE EXPANSION</text>
+    <text x="1024" y="196" font-size="46" font-weight="900" fill="#1d4ed8">&gt;130</text>
+    <text x="1160" y="196" font-size="14" fill="#334155">new non-waterfowl</text>
+    <text x="1160" y="216" font-size="14" fill="#334155">species infected</text>
+    <text x="1024" y="250" font-size="11.5" fill="#475569">orders beyond Anseriformes, 2022–2025</text>
+    <text x="1024" y="264" font-size="11" fill="#94a3b8">[migratory_geospatial2025]</text>
+
+    <rect x="1000" y="296" width="360" height="180" rx="14" fill="#fef2f2" stroke="#dc2626" stroke-width="2.4"/>
+    <text x="1024" y="328" font-size="13" font-weight="700" fill="#dc2626">COASTAL AMPLIFICATION · CHILE</text>
+    <text x="1024" y="382" font-size="46" font-weight="900" fill="#dc2626">73.7%</text>
+    <text x="1024" y="420" font-size="13" fill="#334155">714 positive wild birds in 4 months</text>
+    <text x="1024" y="438" font-size="14" fill="#334155">&gt;3,800 km of Pacific coastline</text>
+    <text x="1024" y="462" font-size="11" fill="#94a3b8">[cross_species_mammal_mammal_2025]</text>
+
+    <rect x="1000" y="498" width="360" height="152" rx="14" fill="#fffbeb" stroke="#d97706" stroke-width="2.4"/>
+    <text x="1024" y="530" font-size="13" font-weight="700" fill="#d97706">THE GAP · OCEANIA</text>
+    <text x="1024" y="568" font-size="14" fill="#334155">Only major region not yet impacted by</text>
+    <text x="1024" y="588" font-size="14" fill="#334155">the panzootic — but hidden-state</text>
+    <text x="1024" y="608" font-size="14" fill="#334155">prediction flags Australian endemic</text>
+    <text x="1024" y="628" font-size="14" fill="#334155">families as susceptible.</text>
+    <text x="1024" y="644" font-size="11" fill="#94a3b8">[wild_birds_affected_worldwide_2024]</text>
+  </g>
+
+  <!-- ============ BOTTOM STRIP ============ -->
+  <g id="evidence">
+    <rect x="40" y="668" width="1320" height="104" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text x="64" y="698" font-size="14" font-weight="700" fill="#0f172a">Reading the map</text>
+    <text x="64" y="722" font-size="12.5" fill="#334155">• Expanded host use beyond waterfowl + order-specific transmission capacity linked to migration and foraging ecology [migratory_geospatial2025]</text>
+    <text x="64" y="744" font-size="12.5" fill="#334155">• US outbreaks recurred annually Jan 2022 – Apr 2025, ~6-month seasonal spans; marine and colonial seabirds showed highest positivity</text>
+    <text x="64" y="762" font-size="11" fill="#94a3b8">Figure: fig-dispersal-2344b (v2, schematic map) · generated by the Roost figure system — no third-party assets</text>
+  </g>
+</svg>

@@ -1,0 +1,245 @@
+[workspace]
+name = "roost"
+version = "0.1.0"
+description = "Avian Influenza Host Genomics Resource"
+channels = ["conda-forge", "bioconda"]
+platforms = ["linux-64"]
+
+[tasks]
+# Download dehydrated avian genomes
+fetch-avian-genomes = "datasets download genome taxon 'Aves' --dehydrated --filename data/avian_genomes.zip"
+# Unzip and inspect
+unzip-genomes = "unzip -o data/avian_genomes.zip -d data/avian_genomes"
+# Get summary report
+genome-summary = "dataformat tsv genome --inputfile data/avian_genomes/ncbi_dataset/data/assembly_data_report.jsonl > data/avian_genome_summary.tsv"
+
+[tasks.spread-rebuild]
+cmd = "python scripts/papers/llm_extract_spread.py --aggregate && python scripts/model/build_spread_edges.py && python scripts/model/build_spread_eras.py && python scripts/model/build_host_competence.py && python scripts/model/build_spread_features.py && python scripts/model/build_spread_synthesis.py && python scripts/model/build_susceptibility.py && python scripts/model/build_spread_parameters.py && python scripts/model/build_vaccine_outcomes.py && python scripts/model/build_vaccine_campaigns.py && python scripts/model/build_region_risk.py && python scripts/model/build_spread_edges.py && python scripts/papers/build_by_the_numbers.py"
+description = "After spread extraction completes: aggregate parquet + rebuild edges/eras/competence/features/numbers"
+
+[dependencies]
+python = ">=3.11"
+polars = ">=1.0"
+pyarrow = ">=15"
+ncbi-datasets-cli = ">=16"
+blast = ">=2.14"
+diamond = ">=2.1"
+emboss = ">=6.6"
+mafft = ">=7.5"
+fasttree = ">=2.1"
+mcl = ">=14.0"
+fastexcel = ">=0.21.0,<0.22"
+httpx = ">=0.28.1,<0.29"
+pyproj = ">=3.7.2,<4"
+pymupdf = ">=1.28"
+htslib = ">=1.24,<2"
+matplotlib = ">=3.11.2,<4"
+adjusttext = ">=1.4.0,<2"
+geopandas = ">=1.1.4,<2"
+
+[pypi-dependencies]
+pymupdf4llm = ">=0.0.17"
+playwright = ">=1.40"
+anthropic = ">=0.30"
+pytest = ">=9.1.1, <10"
+
+[tasks.parse-taxonomy]
+cmd = "python scripts/parse_taxonomy.py"
+description = "Parse NCBI taxonomy dump for Aves"
+
+[tasks.build-species-table]
+cmd = "python scripts/build_species_table.py"
+description = "Build species table with representative genomes"
+
+[tasks.build-coverage-matrix]
+cmd = "python scripts/build_coverage_matrix.py"
+description = "Build coverage matrix showing data availability"
+
+[tasks.ingest-aphis]
+cmd = "python scripts/ingest_aphis.py"
+description = "Ingest APHIS wild bird detection data"
+
+[tasks.build-all]
+cmd = "python scripts/parse_taxonomy.py && python scripts/build_species_table.py && python scripts/ingest_aphis.py && python scripts/build_coverage_matrix.py"
+description = "Run full build pipeline"
+
+[tasks.status]
+cmd = "python scripts/status.py"
+description = "Show data status and coverage statistics"
+
+[tasks.download]
+cmd = "python scripts/download_data.py"
+description = "Download all required data sources"
+
+[tasks.gene-panel]
+cmd = "python scripts/gene_panel.py"
+description = "Generate gene panel definition files"
+
+[tasks.fetch-sequences]
+cmd = "python scripts/fetch_gene_sequences.py"
+description = "Fetch reference protein sequences from NCBI"
+
+[tasks.detect-genes]
+cmd = "python scripts/detect_gene_presence.py"
+description = "Detect gene presence across avian genomes"
+
+[tasks.detect-genes-test]
+cmd = "python scripts/detect_gene_presence.py --species-limit 10 --genes-limit 5"
+description = "Test gene detection with small subset"
+
+[tasks.ingest-detections]
+cmd = "python scripts/ingest_detections.py"
+description = "Merge detection data from all sources (APHIS, OAFD, etc.)"
+
+[tasks.build-phenotype]
+cmd = "python scripts/build_phenotype_table.py"
+description = "Build phenotype table from merged detection data"
+
+[tasks.refresh-arcgis]
+cmd = "python scripts/refresh_arcgis_data.py"
+description = "Refresh avian influenza data from ArcGIS dashboards"
+
+[tasks.load-gps]
+cmd = "python scripts/load_gps_telemetry.py"
+description = "Process GPS telemetry data (3M+ locations)"
+
+[tasks.load-hpai-tracking]
+cmd = "python scripts/load_hpai_tracking.py"
+description = "Load HPAI tracking and georeferenced detection data"
+
+[tasks.fetch]
+cmd = "python scripts/fetch.py"
+description = "Fetch data from registered sources"
+
+[tasks.fetch-all]
+cmd = "python scripts/fetch.py --all"
+description = "Fetch all downloadable sources"
+
+[tasks.fetch-status]
+cmd = "python scripts/fetch.py --status"
+description = "Show status of all data sources"
+
+[tasks.sources]
+cmd = "python scripts/sources.py list"
+description = "List all registered data sources"
+
+[tasks.harmonize-species]
+cmd = "python scripts/harmonize_species.py --apply"
+description = "Harmonize species names in detection data"
+
+[tasks.build-profiles]
+cmd = "python scripts/build_species_profiles.py"
+description = "Build unified species profiles (synthesis layer)"
+
+[tasks.deduplicate]
+cmd = "python scripts/deduplicate.py"
+description = "Remove duplicate detection records across sources"
+
+[tasks.validate-coords]
+cmd = "python scripts/validate_coordinates.py"
+description = "Validate coordinate data quality"
+
+[tasks.susceptibility]
+cmd = "python scripts/build_susceptibility_scores.py"
+description = "Build susceptibility scores (mortality + RIG-I + genome)"
+
+[tasks.analyze]
+cmd = "python scripts/analyze_susceptibility.py"
+description = "Extended susceptibility analysis (family, guild, geographic)"
+
+
+[tasks.species-sheets]
+cmd = "python scripts/generate_species_sheets.py"
+description = "Generate comprehensive per-species data sheets"
+
+[tasks.summary-stats]
+cmd = "python scripts/generate_summary_stats.py"
+description = "Generate publication-ready summary statistics"
+
+[tasks.fetch-phylogeny]
+cmd = "python scripts/fetch_phylogeny.py"
+description = "Fetch and prepare phylogeny tree data for web"
+
+[tasks.analyze-papers-llm]
+cmd = "python scripts/papers/llm_analyze_papers.py"
+description = "LLM-powered paper analysis with dual-pass verification (temp 0.3 then 0.2)"
+
+[tasks.build-wiki]
+cmd = "python scripts/papers/build_wiki_pages.py"
+description = "Build wiki-style knowledge pages (genes/mutations/species) from LLM analyses"
+
+[tasks.fetch-aphis-flocks]
+cmd = "python scripts/fetch_aphis_flocks.py"
+description = "Fetch APHIS commercial/backyard flock data from the Tableau dashboard (Playwright)"
+
+[tasks.refresh]
+cmd = "python scripts/refresh_all.py"
+description = "Periodic refresh: fetch all sources, rebuild pipeline, export web data, build + test site"
+
+[tasks.refresh-data]
+cmd = "python scripts/refresh_all.py --skip-web"
+description = "Data pipeline refresh only (no web build/tests)"
+
+[tasks.freshness]
+cmd = "python scripts/freshness_check.py"
+description = "Data freshness alerts: content age per source + fetch pipeline health"
+
+[tasks.integrity]
+cmd = "python scripts/integrity_check.py"
+description = "Integrity check: every cross-link in web data resolves (species, genes, mutations, papers, files)"
+
+[tasks.geocode]
+cmd = "python scripts/geocode_detections.py"
+description = "Geocode coordinate-less detections (state-area scatter for US state+county rows)"
+
+[tasks.export-web]
+cmd = "python scripts/export_web_data.py"
+description = "Export all web data: parquets (+date_iso, slim susceptibility), species index (single writer), stats, provenance, curated overlays"
+
+[tasks.build-species-seo]
+cmd = "python scripts/build_species_seo.py"
+description = "Pre-build static HTML species pages for SEO + link previews (per-species titles, OG tags, sitemap). Re-run after species insights rebuilds"
+
+[tasks.export-presence]
+cmd = "python scripts/genes/export_presence.py"
+description = "Export gene presence matrix as parquet + gene catalogue JSON"
+
+[tasks.export-gene-panel]
+cmd = "python scripts/genes/export_gene_panel.py"
+description = "Export gene panel table (genes.parquet for the Downloads page)"
+
+[tasks.spread-edges]
+cmd = "python scripts/model/build_spread_edges.py"
+description = "Build spread model edge evidence block from corpus extraction"
+
+[tasks.export-geojson]
+cmd = "python scripts/export_geojson.py && cp data/geojson/*.geojson web/public/data/geojson/"
+description = "Export GeoJSON layers from geocoded detections + copy to web"
+
+[tasks.export-all]
+cmd = "python scripts/geocode_detections.py && python scripts/export_web_data.py && python scripts/genes/export_presence.py && python scripts/genes/export_gene_panel.py && python scripts/model/build_spread_edges.py && python scripts/genes/build_clade_matrix.py && python scripts/export_geojson.py && cp data/geojson/*.geojson web/public/data/geojson/ && python scripts/integrity_check.py"
+description = "Full export pipeline: geocode → parquets+overlays → presence → gene panel → spread evidence → geojson → integrity check"
+
+[tasks.add-genome]
+cmd = "python scripts/genes/add_genome.py"
+description = "Add a local (non-NCBI) genome to the pipeline: setup BLAST db, register in manifest, run gene detection"
+
+[tasks.detect]
+cmd = "python scripts/genes/blast_presence.py"
+description = "Run BLAST gene-presence detection (use --genomes ACC for a delta run)"
+
+[tasks.build-clade-matrix]
+cmd = "python scripts/genes/build_clade_matrix.py"
+description = "Precompute the clade matrix (gene × order presence) from full taxonomy"
+
+[tasks.verify-downloads]
+cmd = "python scripts/verify_downloads.py"
+description = "Verify all download files exist, are fresh, and contain expected row counts"
+
+[tasks.analyze-papers-llm-skip]
+cmd = "python scripts/papers/llm_analyze_papers.py --skip-verified"
+description = "LLM paper analysis, skipping already verified papers"
+
+[tasks.analyze-papers-llm-test]
+cmd = "python scripts/papers/llm_analyze_papers.py --limit 2"
+description = "Test LLM paper analysis with 2 papers"

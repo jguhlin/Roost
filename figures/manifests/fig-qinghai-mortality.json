@@ -1,0 +1,32 @@
+{
+  "figure": "fig-qinghai-mortality",
+  "kind": "python-matplotlib",
+  "title": "Qinghai Lake 2005 H5N1 mortality \u2014 conflicting estimates",
+  "caption": "Two 2025 syntheses report the same 2005 Qinghai Lake clade 2.2 mass mortality at >4-fold different magnitudes (1,500 birds vs >6,184 waterfowl). Candidate explanations: temporal scope, taxonomic scope, surveillance intensity, mortality definition. Lower panel: detection at the same site varied sharply across years (2005 event; 2022 clade 2.3.4.4b emergence; 2023 none detected).",
+  "page": "Qinghai-Lake-mortality-discrep-contradiction-investigati",
+  "generated": "2026-10-04",
+  "assets": [
+    {
+      "asset_id": "phylopic:1d7e3c02-e1c6-4f94-9568-e3cd6b01b854",
+      "title": "Anser anser",
+      "source": "phylopic",
+      "source_url": "https://www.phylopic.org/images/1d7e3c02-e1c6-4f94-9568-e3cd6b01b854",
+      "original_path": "assets/phylopic/birds/anser-anser-1d7e3c02.svg",
+      "imported_path": "figures/src/assets/fig-qinghai-mortality/anser-anser-1d7e3c02.svg",
+      "author": "PhyloPic contributor",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "attribution": "PhyloPic contributor. Anser anser. PhyloPic. https://www.phylopic.org/images/1d7e3c02-e1c6-4f94-9568-e3cd6b01b854",
+      "requires_attribution": false,
+      "share_alike": false,
+      "commercial_ok": true,
+      "modified": false
+    }
+  ],
+  "attribution_summary": "",
+  "sources": [
+    "briefings corpus: Beatriz et al. 2025",
+    "briefings corpus: Alejandro et al. 2025",
+    "xiaoqing2024 (Qinghai Lake surveillance)"
+  ]
+}

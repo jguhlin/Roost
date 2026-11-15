@@ -1,0 +1,11 @@
+{
+  "figure": "fig-anp32-isoforms",
+  "kind": "python-matplotlib",
+  "title": "Which chicken ANP32 isoforms support influenza polymerase?",
+  "caption": "In chicken cells, ANP32A alone is necessary and sufficient — ANP32B is a non-functional paralog (does not rescue in eHAP1 double-KO cells) and ANP32E does not compensate. Triple-KO cells are refractory to infection. Species-matched ANP32A is required in heterologous cells. ANP32A editing (N129I-D130N) gives only partial resistance: compensatory PA-349K + PB2-M631L emerges at high dose.",
+  "page": "what-is-the-minimal-anp32-isoform-requirement-for-productive",
+  "generated": "2026-10-04",
+  "assets": [],
+  "attribution_summary": "",
+  "sources": []
+}

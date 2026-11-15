@@ -1,0 +1,38 @@
+{
+  "name": "web",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "build:llm-worker": "esbuild src/lib/workers/localLLM.worker.js --bundle --format=esm --platform=browser --outfile=models/worker/llm-worker.js --minify",
+    "build:with-llm": "npm run build:llm-worker && VITE_LOCAL_LLM=1 vite build && cp -r models dist/models",
+    "preview": "vite preview",
+    "test": "playwright test",
+    "test:ui": "playwright test --ui"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
+    "@playwright/test": "^1.62.1",
+    "@sveltejs/vite-plugin-svelte": "^7.3.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "autoprefixer": "^10.5.4",
+    "axe-core": "^4.14.0",
+    "postcss": "^8.5.26",
+    "svelte": "^5.56.10",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.3.0"
+  },
+  "dependencies": {
+    "@duckdb/duckdb-wasm": "^1.33.1-dev57.0",
+    "@huggingface/transformers": "^4.3.0",
+    "cytoscape": "^3.34.2",
+    "cytoscape-elk": "^2.3.0",
+    "cytoscape-fcose": "^2.2.0",
+    "fzstd": "^0.1.1",
+    "igv": "^3.8.5",
+    "maplibre-gl": "^6.6.0",
+    "mermaid": "^11.17.2"
+  }
+}

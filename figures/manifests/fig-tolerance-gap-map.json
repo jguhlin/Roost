@@ -1,0 +1,14 @@
+{
+  "figure": "fig-tolerance-gap-map",
+  "kind": "gap-map-spec",
+  "title": "Evidence map: mechanisms of H5N1 tolerance",
+  "caption": "Only domestic-chicken transcriptomics addresses infection response; the tolerance-vs-resistance framework and any field fitness data for wild waterfowl are absent.",
+  "page": "mechanisms-of-H5N1-tolerance-i-gap-assessment",
+  "generated": "2026-10-04",
+  "assets": [],
+  "attribution_summary": "",
+  "sources": [
+    "hpai_resistant_chickens_exhibit_2024"
+  ],
+  "spec": "figures/specs/fig-tolerance-gap-map.json"
+}

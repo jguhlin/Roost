@@ -1,0 +1,17 @@
+{
+  "figure": "fig-tolerance-gap-map",
+  "page": "mechanisms-of-H5N1-tolerance-i-gap-assessment",
+  "title": "Evidence map: mechanisms of H5N1 tolerance",
+  "columns": [{"label": "Domestic\nchicken"}, {"label": "WILD WATERFOWL\n(the question)", "gap": true}],
+  "rows": ["Host transcriptomics\n(on infection)", "Tolerance vs resistance\nframework applied", "Field survival /\nfitness data"],
+  "cells": [
+    [{"level": 2, "text": "tracheal RNA-seq day 3:\nresistant vs susceptible\nlines [hpai_resistant_2024]"}, 0],
+    [0, 0],
+    [0, 0]
+  ],
+  "note_box": "tolerance (limiting damage) vs resistance (limiting load) is a plant/eco-immunology\nframework — never applied to H5N1 in wild waterfowl in this corpus",
+  "caption": "Only domestic-chicken transcriptomics addresses infection response; the tolerance-vs-resistance framework and any field fitness data for wild waterfowl are absent.",
+  "footnote": "Gap report briefing. Figure: fig-tolerance-gap-map (spec-driven).",
+  "sources": ["hpai_resistant_chickens_exhibit_2024"],
+  "generated": "2026-10-04"
+}

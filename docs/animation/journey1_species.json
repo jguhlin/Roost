@@ -1,0 +1,296 @@
+{
+ "Anas platyrhynchos": {
+  "index": {
+   "id": 8839,
+   "com": "mallard",
+   "ord": "Anseriformes",
+   "fam": "Anatidae",
+   "genome_acc": "GCF_047663525.1",
+   "genome_level": "Complete Genome",
+   "genome_n50": 80154792,
+   "genome_annot": true,
+   "population": null,
+   "conservation": null,
+   "vaccination_target": null,
+   "countries": null,
+   "maori_name": null
+  },
+  "detections": {
+   "n": 1838,
+   "n_dated": 1836,
+   "first": "2006-02-23",
+   "last": "2026-10-22",
+   "by_year": {
+    "2006": 10,
+    "2007": 1,
+    "2009": 2,
+    "2010": 2,
+    "2011": 4,
+    "2012": 2,
+    "2013": 3,
+    "2014": 13,
+    "2015": 19,
+    "2016": 62,
+    "2017": 105,
+    "2018": 8,
+    "2019": 2,
+    "2020": 33,
+    "2021": 77,
+    "2022": 299,
+    "2023": 193,
+    "2024": 258,
+    "2025": 521,
+    "2026": 222
+   },
+   "countries": [
+    "AUT",
+    "BEL",
+    "CAN",
+    "CHE",
+    "CHN",
+    "CUB",
+    "CYP",
+    "CZE",
+    "DEU",
+    "DNK",
+    "DZA",
+    "ESP"
+   ]
+  },
+  "host_competence": {
+   "detections": {
+    "count": 1836,
+    "first": "2006-02-23",
+    "provenance": "MEASURED (surveillance)"
+   },
+   "susceptibility_class": "highly_tolerant",
+   "papers_count": 18,
+   "note": "legacy severity-weighted composite; see susceptibility_v2 for the two-axis model"
+  },
+  "susceptibility_v2": {
+   "class": "highly_susceptible",
+   "permissiveness": 85.8,
+   "severity": 76.8,
+   "severity_basis": "p75_field_experimental",
+   "severity_studies": 1,
+   "confidence": 1.0,
+   "literature_only": false,
+   "rigi_present": true,
+   "vax_program": {
+    "items": 5,
+    "outcomes": {
+     "worked": 5
+    }
+   },
+   "provenance": "MODELED composite (permissiveness axis; detections component is MEASURED)"
+  },
+  "panel": {
+   "genes_called": 1435,
+   "full": 1352,
+   "fragment": 25,
+   "not_found": 58,
+   "tier1": {
+    "IFITM3": "FRAGMENT",
+    "RNF135": "FULL",
+    "OASL": "FULL",
+    "MX1": "FULL",
+    "IFIT5": "FULL",
+    "ANP32B": "FULL",
+    "STAT2": "FULL",
+    "STAT1": "FULL",
+    "RNASEL": "FULL",
+    "PLAU": "FULL",
+    "MAVS": "FULL",
+    "IFNAR1": "FULL",
+    "IFITM1": "FULL",
+    "IFIH1": "FULL",
+    "DHX58": "FULL",
+    "ANP32E": "FULL",
+    "DDX58": "FULL",
+    "ANP32A": "FULL"
+   }
+  }
+ },
+ "Gallus gallus": {
+  "index": {
+   "id": 9031,
+   "com": "chicken",
+   "ord": "Galliformes",
+   "fam": "Phasianidae",
+   "genome_acc": "GCF_016699485.2",
+   "genome_level": "Chromosome",
+   "genome_n50": 90861225,
+   "genome_annot": true,
+   "population": null,
+   "conservation": null,
+   "vaccination_target": null,
+   "countries": null,
+   "maori_name": null
+  },
+  "detections": {
+   "n": 314,
+   "n_dated": 314,
+   "first": "2021-11-05",
+   "last": "2026-11-04",
+   "by_year": {
+    "2021": 2,
+    "2022": 63,
+    "2023": 39,
+    "2024": 65,
+    "2025": 91,
+    "2026": 54
+   },
+   "countries": [
+    "BEL",
+    "DEU",
+    "FRA",
+    "GBR",
+    "NGA",
+    "NPL",
+    "PHL",
+    "POL",
+    "TGO",
+    "USA",
+    "VNM"
+   ]
+  },
+  "host_competence": {
+   "detections": {
+    "count": 314,
+    "first": "2021-11-05",
+    "provenance": "MEASURED (surveillance)"
+   },
+   "susceptibility_class": "susceptible",
+   "papers_count": 87,
+   "note": "legacy severity-weighted composite; see susceptibility_v2 for the two-axis model"
+  },
+  "susceptibility_v2": {
+   "class": "highly_susceptible",
+   "permissiveness": 91.0,
+   "severity": 90.0,
+   "severity_basis": "p75_field_experimental",
+   "severity_studies": 22,
+   "confidence": 1.0,
+   "literature_only": false,
+   "rigi_present": false,
+   "vax_program": {
+    "items": 31,
+    "outcomes": {
+     "partial": 4,
+     "unclear": 1,
+     "worked": 23,
+     "failed": 3
+    }
+   },
+   "provenance": "MODELED composite (permissiveness axis; detections component is MEASURED)"
+  },
+  "panel": {
+   "genes_called": 1435,
+   "full": 1416,
+   "fragment": 4,
+   "not_found": 15,
+   "tier1": {
+    "DDX58": "NOT_FOUND",
+    "RNF135": "FRAGMENT",
+    "IFITM3": "FULL",
+    "IFITM1": "FULL",
+    "ANP32A": "FULL",
+    "STAT2": "FULL",
+    "STAT1": "FULL",
+    "RNASEL": "FULL",
+    "PLAU": "FULL",
+    "OASL": "FULL",
+    "MX1": "FULL",
+    "MAVS": "FULL",
+    "IFNAR1": "FULL",
+    "IFIT5": "FULL",
+    "IFIH1": "FULL",
+    "DHX58": "FULL",
+    "ANP32E": "FULL",
+    "ANP32B": "FULL"
+   }
+  }
+ },
+ "Strigops habroptila": {
+  "index": {
+   "id": 2489341,
+   "com": "kākāpō",
+   "ord": "Psittaciformes",
+   "fam": "Psittacidae",
+   "genome_acc": "GCA_004027225.2",
+   "genome_level": "Chromosome",
+   "genome_n50": null,
+   "genome_annot": null,
+   "population": "~350 (2025 breeding season; DOC)",
+   "conservation": "critically_endangered",
+   "vaccination_target": true,
+   "countries": [
+    "NZL"
+   ],
+   "maori_name": "kākāpō"
+  },
+  "detections": {
+   "n": 0
+  },
+  "host_competence": {
+   "detections": null,
+   "susceptibility_class": null,
+   "papers_count": null,
+   "note": "legacy severity-weighted composite; see susceptibility_v2 for the two-axis model"
+  },
+  "susceptibility_v2": {
+   "class": "unevaluated",
+   "permissiveness": null,
+   "severity": 0.0,
+   "severity_basis": "competence_mixed",
+   "severity_studies": 0,
+   "confidence": 0.0,
+   "literature_only": true,
+   "rigi_present": true,
+   "vax_program": {
+    "items": 2,
+    "outcomes": {
+     "unclear": 2
+    }
+   },
+   "provenance": "MODELED composite (permissiveness axis; detections component is MEASURED)"
+  },
+  "panel": {
+   "genes_called": 1435,
+   "full": 1278,
+   "fragment": 55,
+   "not_found": 102,
+   "tier1": {
+    "IFITM1": "NOT_FOUND",
+    "MX1": "NOT_FOUND",
+    "IFITM3": "NOT_FOUND",
+    "ANP32B": "FULL",
+    "OASL": "FULL",
+    "RNASEL": "FULL",
+    "RNF135": "FULL",
+    "STAT1": "FULL",
+    "STAT2": "FULL",
+    "ANP32E": "FULL",
+    "DHX58": "FULL",
+    "IFIH1": "FULL",
+    "IFIT5": "FULL",
+    "IFNAR1": "FULL",
+    "MAVS": "FULL",
+    "PLAU": "FULL",
+    "ANP32A": "FULL",
+    "DDX58": "FULL"
+   }
+  }
+ },
+ "_canonical_counts": {
+  "detection_records_note": "detections.n = raw surveillance records in detections.parquet; host_competence.detections.count = DATED records only (builder filters null date_iso); species grid badge = detection_records (dated+undated row count per species from species_profiles).",
+  "mallard": {
+   "records": 1838,
+   "dated": 1836
+  },
+  "chicken": {
+   "records": 314,
+   "dated": 314
+  }
+ }
+}

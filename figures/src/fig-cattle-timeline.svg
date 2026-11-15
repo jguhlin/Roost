@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="640" viewBox="0 0 1400 640" font-family="Lato, DejaVu Sans, sans-serif">
+  <!-- Fig: B3.13 vs D1.1 in dairy cattle — TIMELINE (MEDIA_PLAN: 2nd figure).
+       Briefing: is-d11-or-b313-the-cattle-adapted-lineage-and-what-does-that-tell-us -->
+  <defs>
+    <marker id="fA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#94a3b8"/>
+    </marker>
+  </defs>
+
+  <rect width="1400" height="640" fill="#f8fafc"/>
+  <text x="40" y="54" font-size="29" font-weight="900" fill="#0f172a">Two entries, two years, two routes</text>
+  <text x="40" y="84" font-size="16" fill="#475569">H5N1 2.3.4.4b in U.S. dairy cattle — B3.13's sustained outbreak, then D1.1's independent spillover</text>
+
+  <!-- timeline axis -->
+  <line x1="80" y1="360" x2="1330" y2="360" stroke="#94a3b8" stroke-width="2.5" marker-end="url(#fA)"/>
+  <g font-size="12.5" fill="#94a3b8" text-anchor="middle">
+    <text x="200" y="392">Feb 2024</text>
+    <text x="420" y="392">Mar–Jun 2024</text>
+    <text x="640" y="392">Jul 2024</text>
+    <text x="900" y="392">2024–2025</text>
+    <text x="1150" y="392">2025</text>
+  </g>
+
+  <!-- B3.13 lane (top, green) -->
+  <g id="b313-lane">
+    <image href="assets/fig-cattle-timeline/000100_dairy-cow-silhouette_g431.svg" x="330" y="122" width="72" height="52"/>
+    <text x="80" y="150" font-size="15" font-weight="700" fill="#16a34a">B3.13 — the cattle-adapted lineage</text>
+    <circle cx="200" cy="200" r="10" fill="#16a34a"/>
+    <text x="200" y="176" font-size="12.5" fill="#334155" text-anchor="middle">Texas, first isolate</text>
+    <circle cx="420" cy="240" r="10" fill="#16a34a"/>
+    <text x="420" y="216" font-size="12.5" fill="#334155" text-anchor="middle">spread with milking</text>
+    <text x="420" y="266" font-size="12.5" fill="#334155" text-anchor="middle">equipment + lateral</text>
+    <circle cx="640" cy="200" r="10" fill="#16a34a"/>
+    <text x="640" y="176" font-size="12.5" fill="#334155" text-anchor="middle">13 states</text>
+    <circle cx="900" cy="240" r="10" fill="#16a34a"/>
+    <text x="900" y="216" font-size="12.5" fill="#334155" text-anchor="middle">sustained cow-to-cow;</text>
+    <text x="900" y="266" font-size="12.5" fill="#334155" text-anchor="middle">PB2 M631L fixed in ALL sequences</text>
+    <path d="M 200 200 Q 420 260 640 200 Q 760 170 900 240" fill="none" stroke="#16a34a" stroke-width="3" opacity="0.55"/>
+  </g>
+
+  <!-- D1.1 lane (bottom, amber) -->
+  <g id="d11-lane">
+    <text x="700" y="452" font-size="15" font-weight="700" fill="#d97706">D1.1 — a later, independent spillover</text>
+    <circle cx="1150" cy="510" r="10" fill="#d97706"/>
+    <text x="1150" y="545" font-size="12.5" fill="#334155" text-anchor="middle">Wisconsin bulk milk</text>
+    <text x="1150" y="563" font-size="12.5" fill="#334155" text-anchor="middle">A/dairy cow/WI/25G05743-001/2025</text>
+    <text x="1150" y="478" font-size="12.5" fill="#334155" text-anchor="middle">avian D1.1 nearby — but E627K acquired de novo</text>
+    <path d="M 1000 560 Q 1080 500 1136 512" fill="none" stroke="#d97706" stroke-width="3" stroke-dasharray="8 6" opacity="0.8"/>
+    <text x="985" y="580" font-size="12" fill="#d97706" text-anchor="middle">no sustained chain documented</text>
+  </g>
+
+  <!-- convergence annotation between lanes -->
+  <g id="convergence">
+    <rect x="40" y="440" width="600" height="176" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text x="64" y="470" font-size="14" font-weight="700" fill="#0f172a">Convergence at the same interface — two routes in</text>
+    <text x="64" y="498" font-size="13" fill="#334155">B3.13: PB2 M631L + PA K497R (non-canonical, bovine-tuned)</text>
+    <text x="64" y="522" font-size="13" fill="#334155">D1.1: PB2 E627K (classic mammalian marker, de novo)</text>
+    <text x="64" y="556" font-size="14" font-weight="700" fill="#0f172a">Surveillance implication</text>
+    <text x="64" y="580" font-size="12.5" fill="#334155">screen dairy isolates for BOTH signatures — either one signals an</text>
+    <text x="64" y="600" font-size="12.5" fill="#334155">independent mammalian adaptation event</text>
+  </g>
+
+</svg>

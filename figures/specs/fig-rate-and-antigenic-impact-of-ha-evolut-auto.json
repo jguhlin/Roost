@@ -1,0 +1,60 @@
+{
+  "figure": "fig-rate-and-antigenic-impact-of-ha-evolut-auto",
+  "page": "rate-and-antigenic-impact-of-ha-evolution-in-clade-2344b-relative-to",
+  "title": "HA evolution vs WHO CVV evidence gap map",
+  "columns": [
+    {
+      "label": "Observed HA substitutions in field isolates",
+      "gap": false
+    },
+    {
+      "label": "Evolutionary rate / phylogenetics",
+      "gap": false
+    },
+    {
+      "label": "Antigenic distance to WHO CVV",
+      "gap": false
+    },
+    {
+      "label": "CVV update recommendation",
+      "gap": true
+    }
+  ],
+  "rows": [
+    "Field isolate data",
+    "In vitro / in vivo functional data",
+    "Phylogenetic / phylodynamic data",
+    "Serologic / antigenic assay data"
+  ],
+  "cells": [
+    [
+      2,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "note_box": "Antigenic distance to WHO CVVs and CVV update need remain unsupported.",
+  "caption": "Evidence coverage is limited to isolated substitution mentions and lineage-specific rate estimates with no antigenic comparison to WHO CVVs.",
+  "footnote": "Proposed by the research agent during briefing synthesis — figure: fig-rate-and-antigenic-impact-of-ha-evolut-auto (auto-rendered).",
+  "sources": [],
+  "generated": "2026-10-05"
+}

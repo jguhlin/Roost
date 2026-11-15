@@ -1,0 +1,379 @@
+{
+ "search_date": "2026-09-05T15:33:14.322638",
+ "days_searched": 30,
+ "sources": [
+  "pubmed",
+  "pmc",
+  "biorxiv",
+  "medrxiv",
+  "europepmc",
+  "openalex"
+ ],
+ "total_found": 20,
+ "new_papers": [
+  {
+   "source": "pubmed",
+   "pmid": "42501529",
+   "title": "Spatiotemporal dynamics and ecological risk factors of high pathogenic avian influenza A(H5N1) in Canadian wildlife: A One Health surveillance analysis.",
+   "authors": "Fatoyinbo HO et al.",
+   "journal": "Comparative immunology, microbiology and infectious diseases",
+   "year": 2026,
+   "doi": "10.1016/j.cimid.2026.102499",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42501529/",
+   "query": "H5N1 avian influenza wild birds",
+   "category": "Surveillance",
+   "topics": [
+    "H5N1",
+    "Surveillance",
+    "Pathology"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "pmc",
+   "pmcid": "13533553",
+   "title": "H5N1 Clade 2.3.4.4b Infections in Domestic Cats During an Avian Influenza Outbreak in Italy: Implications for One Health Surveillance.",
+   "authors": "",
+   "journal": "Influenza and other respiratory viruses",
+   "year": 2026,
+   "doi": "10.1111/irv.70311",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13533553/",
+   "pdf_status": "available_pmc",
+   "query": "H5N1 avian influenza wild birds",
+   "category": "Surveillance",
+   "topics": [
+    "H5N1",
+    "Clade 2.3.4.4b",
+    "Surveillance"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "pmc",
+   "pmcid": "13531225",
+   "title": "No Evidence of HPAI H5N1 in Coastal Areas of Australia's Antarctic Territory During the 2025/26 Austral Summer.",
+   "authors": "",
+   "journal": "Influenza and other respiratory viruses",
+   "year": 2026,
+   "doi": "10.1111/irv.70310",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13531225/",
+   "pdf_status": "available_pmc",
+   "query": "H5N1 avian influenza wild birds",
+   "category": "Wild Birds",
+   "topics": [
+    "H5N1"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "pmc",
+   "pmcid": "13517907",
+   "title": "Assessment of Humoral Immunogenicity of ChAdOx1 H5 HA Influenza Vaccine for Dairy Cattle.",
+   "authors": "",
+   "journal": "Vaccines",
+   "year": 2026,
+   "doi": "10.3390/vaccines14080691",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13517907/",
+   "pdf_status": "available_pmc",
+   "query": "H5N1 avian influenza wild birds",
+   "category": "Cross-Species Transmission",
+   "topics": [
+    "Cross-Species"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "pmc",
+   "pmcid": "13503173",
+   "title": "A cross-sectional study of avian influenza virus in poultry markets of Guangdong China, 2025.",
+   "authors": "",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2026,
+   "doi": "10.3389/fcimb.2026.1914072",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13503173/",
+   "pdf_status": "available_pmc",
+   "query": "H5N1 avian influenza wild birds",
+   "category": "Wild Birds",
+   "topics": [
+    "Avian Influenza"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "pmc",
+   "pmcid": "13470927",
+   "title": "Genetic evolution, phylodynamics, geographic spread of H9N2 avian influenza viruses in China from 2014 to 2025: an increasing potential zoonotic risk.",
+   "authors": "",
+   "journal": "Emerging microbes & infections",
+   "year": 2026,
+   "doi": "10.1080/22221751.2026.2713320",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13470927/",
+   "pdf_status": "available_pmc",
+   "query": "H5N1 avian influenza wild birds",
+   "category": "Host Genomics",
+   "topics": [
+    "Transmission"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "europepmc",
+   "doi": "10.1016/j.prevetmed.2026.106985",
+   "pmcid": null,
+   "title": "The complexity of protecting poultry from HPAIV: Findings from a case-control study in Sweden",
+   "authors": "Grant M et al.",
+   "journal": "Unknown",
+   "year": 2026,
+   "url": "https://doi.org/10.1016/j.prevetmed.2026.106985",
+   "is_open_access": false,
+   "query": "H5N1 avian influenza wild birds",
+   "category": "Control",
+   "topics": [
+    "Avian Influenza"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "europepmc",
+   "doi": "10.20944/preprints202608.0808.v1",
+   "pmcid": null,
+   "title": "Molecular Surveillance and Nanopore Sequencing Reveal the Circulation and Genetic Diversity of Low-Pathogenic Avian Influenza A Viruses in Migratory Birds from Ukraine",
+   "authors": "Gerilovych A et al.",
+   "journal": "Unknown",
+   "year": 2026,
+   "url": "https://doi.org/10.20944/preprints202608.0808.v1",
+   "is_open_access": false,
+   "query": "H5N1 avian influenza wild birds",
+   "category": "Host Genomics",
+   "topics": [
+    "Wild Birds",
+    "Genomics",
+    "Surveillance",
+    "Pathology"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "pubmed",
+   "pmid": "42370406",
+   "title": "Screening and Characterization of Nanobody Against the Emerging Dairy Cattle H5N1 Influenza Virus.",
+   "authors": "Li F et al.",
+   "journal": "Viral immunology",
+   "year": 2026,
+   "doi": "10.1177/08828245261462266",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42370406/",
+   "query": "H5N1 clade 2.3.4.4b",
+   "category": "Cross-Species Transmission",
+   "topics": [
+    "H5N1",
+    "Cross-Species"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "pubmed",
+   "pmid": "41761689",
+   "title": "Development and Characterization of Candidate Vaccine Viruses Against High Pathogenicity Avian Influenza A(H5) Viruses for Rapid Pandemic Response.",
+   "authors": "Wang L et al.",
+   "journal": "The Journal of infectious diseases",
+   "year": 2026,
+   "doi": "10.1093/infdis/jiag132",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41761689/",
+   "query": "H5N1 clade 2.3.4.4b",
+   "category": "Control",
+   "topics": [
+    "Pathology"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "pmc",
+   "pmcid": "13493994",
+   "title": "Comparison of the adjuvant effect of AS01, AS03 and alum on the immune response to GMP-grade H5N1 antigen in guinea pigs.",
+   "authors": "",
+   "journal": "Scientific reports",
+   "year": 2026,
+   "doi": "10.1038/s41598-026-65812-x",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13493994/",
+   "pdf_status": "available_pmc",
+   "query": "H5N1 clade 2.3.4.4b",
+   "category": "Wild Birds",
+   "topics": [
+    "H5N1"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "pubmed",
+   "pmid": "42241751",
+   "title": "Strain-specific responses of avian influenza virus to disruption of solute carrier family 35 member A1 (SLC35A1) in chicken cells.",
+   "authors": "Liu H et al.",
+   "journal": "Poultry science",
+   "year": 2026,
+   "doi": "10.1016/j.psj.2026.107178",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42241751/",
+   "query": "avian influenza host genetics susceptibility",
+   "category": "Host Genomics",
+   "topics": [
+    "Avian Influenza"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "pmc",
+   "pmcid": "13501648",
+   "title": "Genome-wide association study reveals putative genetic determinants of longitudinal immune responses to avian influenza and Newcastle disease in chickens.",
+   "authors": "",
+   "journal": "Genetics, selection, evolution : GSE",
+   "year": 2026,
+   "doi": "10.1186/s12711-026-01077-2",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13501648/",
+   "pdf_status": "available_pmc",
+   "query": "avian influenza host genetics susceptibility",
+   "category": "Host Genomics",
+   "topics": [
+    "Genomics"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "pubmed",
+   "pmid": "42573239",
+   "title": "Acquisition of specific human respiratory tract binding by 2.3.4.4b H5N1 hemagglutinins requires multiple mutations.",
+   "authors": "Ríos Carrasco M et al.",
+   "journal": "Journal of virology",
+   "year": 2026,
+   "doi": "10.1128/jvi.01065-26",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42573239/",
+   "query": "H5N1 cattle dairy bovine",
+   "category": "Pandemic Risk",
+   "topics": [
+    "H5N1",
+    "Clade 2.3.4.4b"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "pubmed",
+   "pmid": "42520787",
+   "title": "Seroprevalence of Influenza A(H5N1) Virus in Domestic Cats at Epicenter of Dairy Cattle Outbreaks, California, USA, 2024-2026.",
+   "authors": "Bemis IG et al.",
+   "journal": "Emerging infectious diseases",
+   "year": 2026,
+   "doi": "10.3201/eid3209.260785",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42520787/",
+   "query": "H5N1 cattle dairy bovine",
+   "category": "Cross-Species Transmission",
+   "topics": [
+    "H5N1",
+    "Cross-Species",
+    "Surveillance"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "pubmed",
+   "pmid": "42264359",
+   "title": "Associations between bovine viral diarrhea virus, bovine leukemia virus, and Mycobacterium avium subspecies paratuberculosis exposure on H5N1 clinical signs and shedding among dairy cows in the United States.",
+   "authors": "Urie N et al.",
+   "journal": "Journal of dairy science",
+   "year": 2026,
+   "doi": "10.3168/jds.2025-28172",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42264359/",
+   "query": "H5N1 cattle dairy bovine",
+   "category": "Cross-Species Transmission",
+   "topics": [
+    "H5N1"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "pubmed",
+   "pmid": "42155711",
+   "title": "Estimating the within-herd transmission rate of highly pathogenic avian influenza H5N1 virus in a dairy herd using an approximate Bayesian computation approach.",
+   "authors": "Malladi S et al.",
+   "journal": "Journal of dairy science",
+   "year": 2026,
+   "doi": "10.3168/jds.2025-27983",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42155711/",
+   "query": "H5N1 cattle dairy bovine",
+   "category": "Cross-Species Transmission",
+   "topics": [
+    "H5N1",
+    "Pathology",
+    "Transmission"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "pubmed",
+   "pmid": "42566313",
+   "title": "Genetic characterization and zoonotic potential of G1-Lineage H9N2 avian influenza viruses isolated from poultry in Pakistan, 2023.",
+   "authors": "Tan KY et al.",
+   "journal": "Avian pathology : journal of the W.V.P.A",
+   "year": 2026,
+   "doi": "10.1080/03079457.2026.2699158",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42566313/",
+   "query": "avian influenza receptor binding sialic acid",
+   "category": "Host Genomics",
+   "topics": [
+    "Avian Influenza"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "pmc",
+   "pmcid": "13517291",
+   "title": "Rapid Detection of N9 Subtype Avian Influenza Viruses Using an NA-Targeting Lateral Flow Immunoassay.",
+   "authors": "",
+   "journal": "Viruses",
+   "year": 2026,
+   "doi": "10.3390/v18080879",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13517291/",
+   "pdf_status": "available_pmc",
+   "query": "avian influenza receptor binding sialic acid",
+   "category": "Surveillance",
+   "topics": [
+    "Surveillance"
+   ],
+   "summary": "",
+   "cited_for": ""
+  },
+  {
+   "source": "pmc",
+   "pmcid": "13491902",
+   "title": "A bispecific antibody targeting conserved hemagglutinin epitopes confers broad protection against H7 avian influenza and accelerates viral clearance via localized respiratory delivery.",
+   "authors": "",
+   "journal": "Emerging microbes & infections",
+   "year": 2026,
+   "doi": "10.1080/22221751.2026.2713326",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13491902/",
+   "pdf_status": "available_pmc",
+   "query": "avian influenza receptor binding sialic acid",
+   "category": "Wild Birds",
+   "topics": [
+    "Avian Influenza"
+   ],
+   "summary": "",
+   "cited_for": ""
+  }
+ ]
+}

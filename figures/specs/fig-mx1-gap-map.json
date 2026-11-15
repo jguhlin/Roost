@@ -1,0 +1,17 @@
+{
+  "figure": "fig-mx1-gap-map",
+  "page": "MX1-gene-deep-dive",
+  "title": "Evidence map: MX1 (Mx) in the avian influenza corpus",
+  "columns": [{"label": "Human cells"}, {"label": "Chicken\n(lab lines)"}, {"label": "WILD BIRDS\nMX1", "gap": true}],
+  "rows": ["Expression\nobservation", "Protein interaction\n/ mechanism", "Phenotype\n(resistance)"],
+  "cells": [
+    [{"level": 2, "text": "H1N1 infection upregulates\nMX1 in A549-PB1 cells\n[circrna_2024]"}, 1, 0],
+    [0, {"level": 2, "text": "Mx interacts with NP;\nblocks primary transcription\n[genetic_resistance2025]"}, 0],
+    [0, {"level": 2, "text": "Mx(A) vs Mx(G) lines\ncontribute to resistance\n[genetic_resistance2025]"}, 0]
+  ],
+  "note_box": "several MX1 mentions are placeholders that look like search strings, not findings —\nreal MX1 content is chicken-line and human-cell only",
+  "caption": "MX1 has real mechanistic content in chicken lines (Mx–NP interaction blocking primary transcription; Mx(A) vs Mx(G) resistance) and one human expression study — but nothing on MX1 in wild birds.",
+  "footnote": "Gap report briefing. Figure: fig-mx1-gap-map (spec-driven).",
+  "sources": ["genetic_resistance2025", "circrna_expression_profiling_h1n1_2024"],
+  "generated": "2026-10-04"
+}

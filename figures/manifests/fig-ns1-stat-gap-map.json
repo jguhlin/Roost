@@ -1,0 +1,15 @@
+{
+  "figure": "fig-ns1-stat-gap-map",
+  "kind": "gap-map-spec",
+  "title": "Evidence map: NS1 inhibition of IFN-β-induced STAT phosphorylation",
+  "caption": "NS1–IFN antagonism is documented in human cell lines (IFNAR1 downregulation in HeLa; a 34-gene NS1 screen in 293T), but STAT phosphorylation itself and any avian/wild-bird context are absent.",
+  "page": "does-ns1-mediated-inhibition-of-ifn-beta-induced-stat-phosphorylation",
+  "generated": "2026-10-04",
+  "assets": [],
+  "attribution_summary": "",
+  "sources": [
+    "ns1_ifnar1_heLa_2024",
+    "ns1_34gene_microarray_293T_2009"
+  ],
+  "spec": "figures/specs/fig-ns1-stat-gap-map.json"
+}

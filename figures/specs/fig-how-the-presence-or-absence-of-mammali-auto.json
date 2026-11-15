@@ -1,0 +1,53 @@
+{
+  "figure": "fig-how-the-presence-or-absence-of-mammali-auto",
+  "page": "how-the-presence-or-absence-of-mammalian-adaptive-markers-such-as",
+  "title": "Mammalian-adaptive marker coverage gap map",
+  "columns": [
+    {
+      "label": "PB2-E627K / PB2-D701N",
+      "gap": false
+    },
+    {
+      "label": "PB2-S714R",
+      "gap": false
+    },
+    {
+      "label": "HA Q226L/G228S",
+      "gap": false
+    },
+    {
+      "label": "Determinants of short-term acquisition",
+      "gap": true
+    }
+  ],
+  "rows": [
+    "Variation across H5N1 lineages/genotypes",
+    "Variation across mammalian species",
+    "Evidence from short-term infection"
+  ],
+  "cells": [
+    [
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "note_box": "No lineage- or species-resolved data for S714R, HA receptor markers, or acquisition drivers.",
+  "caption": "Evidence is limited to generic detection of PB2-E627K/D701N with no lineage, species or mechanistic detail for S714R, HA markers or acquisition drivers.",
+  "footnote": "Proposed by the research agent during briefing synthesis — figure: fig-how-the-presence-or-absence-of-mammali-auto (auto-rendered).",
+  "sources": [],
+  "generated": "2026-10-05"
+}

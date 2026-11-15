@@ -1,0 +1,15 @@
+{
+  "figure": "fig-reassortment-gap-map",
+  "kind": "gap-map-spec",
+  "title": "Evidence map: reassortment + lineage contributions of H5 clade 2.3.4.4b",
+  "caption": "Individual outbreak genotypes are described (B3.13 in cattle; DP2 in gull/Peru seal spillovers), but no systematic comparison of reassortment patterns across regions or hosts exists in the corpus.",
+  "page": "how-do-reassortment-patterns-and-lineage-contributions-of-h5-clade",
+  "generated": "2026-10-04",
+  "assets": [],
+  "attribution_summary": "",
+  "sources": [
+    "rehuel_dairy_cattle_2026",
+    "puryear_elephant_seals_2024"
+  ],
+  "spec": "figures/specs/fig-reassortment-gap-map.json"
+}

@@ -1,0 +1,14 @@
+{
+  "figure": "fig-mortality-burden",
+  "kind": "python-matplotlib",
+  "title": "True mortality burden of H5N1 2.3.4.4b in wild birds",
+  "caption": "Official notifications capture a fraction of field mortality: WAHIS holds 35 HPAI notifications for Sandwich terns since Oct 2021, while field surveys documented 20,531 dead adults in the Netherlands + Belgium within two months (~586× more). Peruvian pelicans: 61,844 recorded deaths. Drivers: >130 newly infected non-waterfowl species, annual recurrence, cryptic deaths in remote colonies, low passive-surveillance sensitivity.",
+  "page": "what-is-the-true-mortality-burden-of-h5n1-clade-2344b-in-wild-bird",
+  "generated": "2026-10-04",
+  "assets": [],
+  "attribution_summary": "",
+  "sources": [
+    "risk_southern_ocean_practical_2023",
+    "migratory_geospatial2025"
+  ]
+}

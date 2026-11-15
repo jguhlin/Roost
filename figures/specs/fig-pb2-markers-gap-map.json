@@ -1,0 +1,17 @@
+{
+  "figure": "fig-pb2-markers-gap-map",
+  "page": "how-the-presence-or-absence-of-mammalian-adaptive-markers-such-as",
+  "title": "Evidence map: mammalian-adaptive PB2 markers in the corpus",
+  "columns": [{"label": "Mouse\nmodels"}, {"label": "Cattle B3.13"}, {"label": "Ferrets /\nhumans"}, {"label": "DIRECT\nE627K TESTS", "gap": true}],
+  "rows": ["E627K / D701N\ndirectly tested", "Alternative PB2\nsignatures", "Transmission\ndata"],
+  "cells": [
+    [0, 0, 0, 0],
+    [{"level": 2, "text": "384L + 443R + 460M:\nnecessary + sufficient for\nmouse lethality [yao2026]"}, {"level": 2, "text": "M631L fixed; D740N\ncandidate compensator\n[pb2_cattle_adaptation2026]"}, 1, 0],
+    [0, 0, 0, 0]
+  ],
+  "note_box": "the corpus documents alternative mammalizing routes (avian-acquired 384L/443R/460M,\ncattle M631L) but no direct E627K/D701N functional test",
+  "caption": "What the corpus holds on mammalian PB2 adaptation: alternative signatures (384L/443R/460M sufficient for mouse lethality; cattle M631L with D740N) — but no direct test of the classic E627K/D701N markers.",
+  "footnote": "Gap report briefing — questions #3/#5 of the open-question board. Figure: fig-pb2-markers-gap-map (spec-driven).",
+  "sources": ["yao2026", "pb2_cattle_adaptation2026"],
+  "generated": "2026-10-04"
+}

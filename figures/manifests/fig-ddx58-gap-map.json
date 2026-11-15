@@ -1,0 +1,16 @@
+{
+  "figure": "fig-ddx58-gap-map",
+  "kind": "gap-map-spec",
+  "title": "Evidence map: DDX58 (RIG-I) in the avian influenza corpus",
+  "caption": "The only DDX58 evidence is one human circRNA expression study; the corpus repeatedly returns duck MDA5 (the parallel RIG-I-like receptor) instead. Avian DDX58 mechanisms, pathways, and phenotypes are absent.",
+  "page": "DDX58-gene-deep-dive",
+  "generated": "2026-10-04",
+  "assets": [],
+  "attribution_summary": "",
+  "sources": [
+    "circrna_expression_profiling_h1n1_2024",
+    "duck_mda5_h5n12014",
+    "duck_mda52014"
+  ],
+  "spec": "figures/specs/fig-ddx58-gap-map.json"
+}

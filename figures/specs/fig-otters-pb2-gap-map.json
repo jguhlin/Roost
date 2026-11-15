@@ -1,0 +1,17 @@
+{
+  "figure": "fig-otters-pb2-gap-map",
+  "page": "whether-otters-infected-in-the-netherlands-may-2021december-2022",
+  "title": "Evidence map: PB2 markers in NL otters (May 2021 – Dec 2022)",
+  "columns": [{"label": "Global mammal\nreview"}, {"label": "NL outbreak\ncontext"}, {"label": "OTTER PB2\nGENOTYPES", "gap": true}],
+  "rows": ["E627K / D701N in\npanzootic mammals", "NL mammal species\ninfected 2021–22", "Per-host mutation\ncalls"],
+  "cells": [
+    [{"level": 2, "text": "E627K, D701N recur in wild\nand farmed mammals\n[alexander2025]"}, 1, 0],
+    [1, {"level": 2, "text": "foxes, otters, polecats,\nmink among 26 events\n[vries_nl_mammals_2024]"}, 0],
+    [0, 0, 0]
+  ],
+  "note_box": "NL outbreak context and global marker review exist — but no genotype-level\nmutation calls for the NL otters themselves",
+  "caption": "The corpus has the global mammalian-adaptation review (E627K/D701N recur) and NL 2021–22 outbreak context (otters among 26 events), but no PB2 genotype calls for the otters — whether they carried E627K or D701N cannot be answered.",
+  "footnote": "Gap report briefing — question #3 on the open board. Figure: fig-otters-pb2-gap-map (spec-driven).",
+  "sources": ["alexander2025", "vries_nl_mammals_2024"],
+  "generated": "2026-10-04"
+}

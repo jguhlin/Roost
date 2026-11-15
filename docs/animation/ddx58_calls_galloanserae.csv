@@ -1,0 +1,25 @@
+species,family,ddx58_status,status_level,searchability,absence_confidence,assembly,method,in_tree
+Bucephala islandica,Anatidae,FRAGMENT,E3_fragment,0.75,,GCA_982556285.1,blast,True
+Cairina moschata,Anatidae,FULL,E4_unannotated_found,0.75,,GCA_048319975.1,blast,True
+Somateria mollissima,Anatidae,FULL,E4_unannotated_found,0.667,,GCA_951411735.1,blast,True
+Anas platyrhynchos,Anatidae,FULL,E5_annotated,0.75,,GCF_047663525.1,annotation,True
+Anser anser,Anatidae,FULL,E5_annotated,0.75,,GCF_964211835.1,annotation,True
+Aythya ferina,Anatidae,FULL,E5_annotated,0.75,,GCA_042478095.1,annotation,True
+Branta canadensis,Anatidae,FULL,E5_annotated,0.75,,GCF_965231335.1,annotation,True
+Cygnus olor,Anatidae,FULL,E5_annotated,0.75,,GCF_009769625.2,annotation,True
+Penelope pileata,Cracidae,FULL,E4_unannotated_found,0.667,,GCA_013396635.1,blast,True
+Alectura lathami,Megapodiidae,FULL,E4_unannotated_found,0.833,,GCA_013399715.1,blast,True
+Numida meleagris,Numididae,FRAGMENT,E3_fragment,0.917,,GCF_002078875.1,blast,True
+Callipepla squamata,Odontophoridae,NOT_FOUND,E2_searched_not_found,0.917,high,GCA_002218305.1,blast,True
+Colinus virginianus,Odontophoridae,FRAGMENT,E3_fragment,0.833,,GCA_008692595.2,blast,True
+Cyrtonyx montezumae,Odontophoridae,NOT_FOUND,E2_searched_not_found,0.917,high,GCA_038088225.1,blast,True
+Odontophorus gujanensis,Odontophoridae,NOT_FOUND,E2_searched_not_found,0.917,high,GCA_013399175.1,blast,True
+Centrocercus urophasianus,Phasianidae,NOT_FOUND,E2_searched_not_found,0.917,high,GCF_019232065.1,blast,True
+Coturnix japonica,Phasianidae,NOT_FOUND,E2_searched_not_found,1.0,high,GCF_054131305.1,blast,True
+Gallus gallus,Phasianidae,NOT_FOUND,E2_searched_not_found,1.0,high,GCA_040436645.1,blast,True
+Lagopus leucura,Phasianidae,NOT_FOUND,E2_searched_not_found,0.917,high,GCA_019238085.1,blast,True
+Lagopus muta,Phasianidae,NOT_FOUND,E2_searched_not_found,0.917,high,GCF_023343835.1,blast,True
+Meleagris gallopavo,Phasianidae,NOT_FOUND,E2_searched_not_found,0.5,low,GCA_905368555.5,blast,True
+Phasianus colchicus,Phasianidae,NOT_FOUND,E2_searched_not_found,1.0,high,GCA_015227605.1,blast,True
+Tetrao urogallus,Phasianidae,NOT_FOUND,E2_searched_not_found,0.917,high,GCA_951394365.1,blast,True
+Tympanuchus pallidicinctus,Phasianidae,NOT_FOUND,E2_searched_not_found,0.917,high,GCA_026119805.1,blast,True

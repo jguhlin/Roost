@@ -1,0 +1,18 @@
+{
+  "figure": "fig-ha-evolution-gap-map",
+  "page": "rate-and-antigenic-impact-of-ha-evolution-in-clade-2344b-relative-to",
+  "title": "Evidence map: HA evolution in 2.3.4.4b vs WHO candidate vaccine viruses",
+  "columns": [{"label": "Evolutionary\nrate"}, {"label": "Antigenic\nphenotype"}, {"label": "CVV MATCH\nASSESSMENT", "gap": true}],
+  "rows": ["HA substitution rate", "HI / neutralisation\ndata", "Antigenic cartography\nor cluster transitions", "WHO CVV update\nimplications"],
+  "cells": [
+    [{"level": 2, "text": "4.9×10⁻³ subs/site/yr,\nHA under strongest\npurifying selection [zhou2026]"}, 0, 0],
+    [0, 0, 0],
+    [0, 0, 0],
+    [0, 0, 0]
+  ],
+  "note_box": "the #1 top-scored open question — evolutionary rate is measured,\nbut the antigenic side and CVV comparison are entirely absent",
+  "caption": "The corpus quantifies HA's substitution rate (4.9×10⁻³/site/yr, strongest purifying selection) but holds no antigenic phenotyping (HI/neutralisation, cartography) and no assessment against WHO candidate vaccine viruses — the #1 scored open question.",
+  "footnote": "Gap report briefing. Figure: fig-ha-evolution-gap-map (spec-driven).",
+  "sources": ["zhou2026"],
+  "generated": "2026-10-04"
+}

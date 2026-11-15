@@ -1,0 +1,17 @@
+{
+  "figure": "fig-mallard-cytokine-gap-map",
+  "page": "mallard,chicken-cytokine-respo-species-comparison",
+  "title": "Evidence map: mallard vs chicken cytokine responses",
+  "columns": [{"label": "Mouse"}, {"label": "Human\ncells"}, {"label": "Chicken"}, {"label": "MALLARD\n(the question)", "gap": true}],
+  "rows": ["Cytokine / chemokine\nprofiling", "Species-pair\ncomparison", "Standardised panel\nacross species"],
+  "cells": [
+    [{"level": 2, "text": "Bov342: CXCL1, IL-1β, IL-6,\nTNF-α dose-dependent ↑\n[enhanced_encephalitic_2024]"}, {"level": 2, "text": "type I/II/III IFN\ninfluenza induction\n(many studies)"}, {"level": 2, "text": "lung transcriptomics:\ncytokine/chemokine ↑"}, 0],
+    [0, 1, 0, 0],
+    [0, 0, 0, 0]
+  ],
+  "note_box": "cytokine storm work exists in mice, human cells, chickens — the mallard side of the\ncomparison, and any directly comparable species pair, is missing",
+  "caption": "Cytokine profiling exists in mice, human cells, and chickens — but no mallard cytokine data and no study compares the species pair with a common panel.",
+  "footnote": "Gap report briefing. Figure: fig-mallard-cytokine-gap-map (spec-driven).",
+  "sources": ["enhanced_encephalitic_tropism_bovine_2024"],
+  "generated": "2026-10-04"
+}

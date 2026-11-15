@@ -1,0 +1,14 @@
+{
+  "figure": "fig-ha-evolution-gap-map",
+  "kind": "gap-map-spec",
+  "title": "Evidence map: HA evolution in 2.3.4.4b vs WHO candidate vaccine viruses",
+  "caption": "The corpus quantifies HA's substitution rate (4.9×10⁻³/site/yr, strongest purifying selection) but holds no antigenic phenotyping (HI/neutralisation, cartography) and no assessment against WHO candidate vaccine viruses — the #1 scored open question.",
+  "page": "rate-and-antigenic-impact-of-ha-evolution-in-clade-2344b-relative-to",
+  "generated": "2026-10-04",
+  "assets": [],
+  "attribution_summary": "",
+  "sources": [
+    "zhou2026"
+  ],
+  "spec": "figures/specs/fig-ha-evolution-gap-map.json"
+}

@@ -1,0 +1,20 @@
+{
+ "figure": "first_detection_timeline",
+ "claim": "HPAI host range (species with first detections) grew in waves: 2004-2013 H5N1 trickle, 2014-2019 H5N8 broadening, 2020+ 2.3.4.4b explosive growth incl. mammals",
+ "panels": {
+  "A": "cumulative host species (total/birds/mammals), step-of-real-events \u2014 no smoothing",
+  "B": "new host species first detected per year, stacked birds+mammals"
+ },
+ "data": {
+  "species_first_records.json": {
+   "path": "data/species_first_records.json",
+   "sha256_16": "719a1b00b71fcf23",
+   "rows_used": 593,
+   "rows_excluded_undated": 120,
+   "transform": "first_detection ISO dates; no interpolation"
+  }
+ },
+ "smooth": false,
+ "mock": false,
+ "generated": "2026-11-10"
+}

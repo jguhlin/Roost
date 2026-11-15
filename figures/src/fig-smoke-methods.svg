@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 920 340" width="920" height="340" font-family="Helvetica, Arial, sans-serif">
+  <title>Smoke test: methods pipeline figure with an imported open asset</title>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#37474f"/>
+    </marker>
+    <marker id="arrow-dashed" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#78909c"/>
+    </marker>
+  </defs>
+
+  <style>
+    .box { fill: #eceff1; stroke: #546e7a; stroke-width: 1.5; rx: 6; }
+    .step { font-size: 14px; fill: #263238; }
+    .cap  { font-size: 11px; fill: #546e7a; }
+    .flow { stroke: #37474f; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+    .opt  { stroke: #78909c; stroke-width: 2; stroke-dasharray: 6 4; fill: none; marker-end: url(#arrow-dashed); }
+  </style>
+
+  <!-- Step 1 -->
+  <rect class="box" x="40" y="60" width="200" height="90" rx="6"/>
+  <image href="assets/fig-smoke-methods/chromosome-and-nucleosomes-014738.svg" x="115" y="68" width="50" height="50"/>
+  <text class="step" x="140" y="138" text-anchor="middle">Genome collection</text>
+
+  <!-- Step 2 -->
+  <rect class="box" x="330" y="60" width="200" height="90" rx="6"/>
+  <text class="step" x="430" y="98" text-anchor="middle">Orthology inference</text>
+  <text class="cap" x="430" y="118" text-anchor="middle">OrthoFinder, per-gene</text>
+
+  <!-- Step 3 -->
+  <rect class="box" x="620" y="60" width="200" height="90" rx="6"/>
+  <text class="step" x="720" y="98" text-anchor="middle">Phenotype mapping</text>
+  <text class="cap" x="720" y="118" text-anchor="middle">susceptibility scores</text>
+
+  <!-- Step 4 (optional path) -->
+  <rect class="box" x="620" y="220" width="200" height="90" rx="6"/>
+  <text class="step" x="720" y="258" text-anchor="middle">Ancestral states</text>
+  <text class="cap" x="720" y="278" text-anchor="middle">optional validation</text>
+
+  <path class="flow" d="M 240 105 H 330"/>
+  <path class="flow" d="M 530 105 H 620"/>
+  <path class="opt"  d="M 720 150 V 220"/>
+
+  <text class="step" x="40" y="30" font-weight="bold">Gene presence —&gt; susceptibility pipeline</text>
+  <text class="cap" x="40" y="325">Solid arrow: asserted flow. Dashed arrow: optional validation path.</text>
+  <text class="cap" x="40" y="309" fill="none">.</text>
+</svg>

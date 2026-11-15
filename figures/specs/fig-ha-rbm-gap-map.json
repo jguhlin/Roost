@@ -1,0 +1,17 @@
+{
+  "figure": "fig-ha-rbm-gap-map",
+  "page": "whether-the-ha-receptor-binding-mutations-137a-158n-and-160a-alter",
+  "title": "Evidence map: do HA RBM mutations 137A/158N/160A alter receptor specificity?",
+  "columns": [{"label": "Surveillance\ngenotypes"}, {"label": "Virus-level\nbinding assays"}, {"label": "CAUSAL\nMUTAGENESIS", "gap": true}],
+  "rows": ["137A/158N/160A\ngeno­type observations", "α2,3 / α2,6 binding\nmeasurements", "Mutation→specificity\nattribution"],
+  "cells": [
+    [{"level": 2, "text": "mutations co-occur in\nbovine mammary isolates\n[cui_h5n5_bovine_2025]"}, {"level": 1, "text": "bovine isolates show dual\nreceptor binding [same]"}, 0],
+    [1, 1, 0],
+    [0, 0, 0]
+  ],
+  "note_box": "genotype–phenotype correlation exists; reverse-genetics attribution of each\nmutation individually does not",
+  "caption": "The 137A/158N/160A cluster is observed in bovine isolates that show dual receptor binding — but no reverse-genetics study attributes specificity to the individual mutations.",
+  "footnote": "Gap report briefing. Figure: fig-ha-rbm-gap-map (spec-driven).",
+  "sources": ["cui_h5n5_bovine_2025"],
+  "generated": "2026-10-04"
+}

@@ -1,0 +1,21 @@
+{
+  "assets": [
+    {
+      "asset_id": "reactome:R-ICO-014738",
+      "title": "Chromosome and nucleosomes",
+      "source": "reactome",
+      "source_url": "https://reactome.org/icon-lib",
+      "original_path": "assets/reactome/background/chromosome-and-nucleosomes-014738.svg",
+      "imported_path": "figures/src/assets/fig-smoke-methods/chromosome-and-nucleosomes-014738.svg",
+      "author": "Cristoffer Sevilla",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Cristoffer Sevilla. Chromosome and nucleosomes. Reactome Icon Library. https://reactome.org/icon-lib (CC BY 4.0)",
+      "requires_attribution": true,
+      "share_alike": false,
+      "commercial_ok": true,
+      "modified": false
+    }
+  ],
+  "figure": "fig-smoke-methods"
+}

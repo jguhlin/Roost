@@ -1,0 +1,15 @@
+{
+  "figure": "fig-otters-pb2-gap-map",
+  "kind": "gap-map-spec",
+  "title": "Evidence map: PB2 markers in NL otters (May 2021 – Dec 2022)",
+  "caption": "The corpus has the global mammalian-adaptation review (E627K/D701N recur) and NL 2021–22 outbreak context (otters among 26 events), but no PB2 genotype calls for the otters — whether they carried E627K or D701N cannot be answered.",
+  "page": "whether-otters-infected-in-the-netherlands-may-2021december-2022",
+  "generated": "2026-10-04",
+  "assets": [],
+  "attribution_summary": "",
+  "sources": [
+    "alexander2025",
+    "vries_nl_mammals_2024"
+  ],
+  "spec": "figures/specs/fig-otters-pb2-gap-map.json"
+}

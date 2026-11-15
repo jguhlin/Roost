@@ -1,0 +1,15 @@
+{
+  "figure": "fig-brain-lesions-gap-map",
+  "kind": "gap-map-spec",
+  "title": "Evidence map: macroscopic brain lesions in H5N1-infected mammals",
+  "caption": "Ferret models document lethal disease and droplet transmission; Chile's marine-mammal outbreak was 100% fatal — but gross brain pathology at necropsy is unrecorded in any system.",
+  "page": "whether-macroscopic-brain-lesions-develop-in-mammals-infected-with",
+  "generated": "2026-10-04",
+  "assets": [],
+  "attribution_summary": "",
+  "sources": [
+    "marco_vizcarra_chile_2024",
+    "marco_vizcarra_2024"
+  ],
+  "spec": "figures/specs/fig-brain-lesions-gap-map.json"
+}

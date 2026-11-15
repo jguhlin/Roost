@@ -1,0 +1,14 @@
+{
+  "figure": "fig-ducks-vs-chickens-gap-map",
+  "kind": "gap-map-spec",
+  "title": "Evidence map: why dabbling ducks survive H5N1 while chickens die",
+  "caption": "Chicken-side evidence is strong (line-level transcriptomics, clinical outcomes); duck evidence is limited to H5N8 serology and low-path H5 studies — no study directly compares H5N1 responses across the two.",
+  "page": "why-do-dabbling-ducks-survive-h5n1-while-chickens-die",
+  "generated": "2026-10-04",
+  "assets": [],
+  "attribution_summary": "",
+  "sources": [
+    "hpai_resistant_chickens_exhibit_2024"
+  ],
+  "spec": "figures/specs/fig-ducks-vs-chickens-gap-map.json"
+}

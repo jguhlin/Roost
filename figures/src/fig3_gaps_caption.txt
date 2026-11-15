@@ -1,0 +1,28 @@
+**Figure 3. Host-genetic knowledge lags far behind available
+genomic resources — and the gaps are immediately tractable.**
+(A) All 722 species in the Roost species index (H5N1-detected and
+tracked hosts), orders as in (B); within each order, studied species lead
+(blue, dark to light by gene-link depth), then genome-available unstudied
+(amber), then no genome (red cross): 59 species have ever been named
+as a host in typed study-subject claims; 442 — 88.6% of the
+499 genome-available species — carry a genome but have never
+been a study subject; 221 have no genome (2 studied species lack
+one: Lynx lynx · Tyto furcata). 80 threatened species
+(IUCN CR/EN/VU/NT) sit in the genome-available unstudied cell, including
+*Gymnogyps californianus*, *Aythya baeri*, *Panthera tigris*, *Leucogeranus leucogeranus*, *Grus americana*, *Porphyrio hochstetteri*, each with a chromosome-level assembly; 344 of the 442
+are least-concern. This is an index of research opportunity, not a
+susceptibility score.
+(B) Species per order (teal) against host-genetics study attention (blue)
+— 4 of the larger bird orders have zero studied species
+(Pelecaniformes, Suliformes, Psittaciformes, Procellariiformes; 99 species combined), and
+even within the studied set depth is shallow: 40 of
+59 studied species are named by ≤4 genes, while only
+6 species carry ≥20 gene links.
+(C) Geographic distribution of the no-genome gap: every H5N1 detection of
+a no-genome species with coordinates (1,239 records) binned into 2.5°
+cells, coloured by distinct species per cell (Pacific-centred). The gap
+concentrates along coasts and wetland flyways: hottest cells are the US
+Great Plains (34 species), South Africa's Western Cape (21), Patagonia
+(18) and south-eastern Brazil (12); 62 countries carry at least one
+such species. All numbers are generated from the same artifacts as the
+live site (data freeze 2026-10-29).

@@ -1,0 +1,21 @@
+**Figure 1. Roost links literature-derived host-factor evidence, H5N1
+surveillance, and comparative genomics across 2,048 indexed
+species.** (A) Three previously disconnected data streams are integrated:
+1,366 papers from 22 sources are converted to structured evidence
+by language-model agents (findings, typed claims, mechanisms, species links;
+Methods); 44,871 H5N1 detections across 106 countries
+(718 species with recorded detections) contribute
+species-by-occurrence evidence; and 3,894 catalogued genome
+assemblies (2,388 screened to date) contribute gene
+content. Together these index 2,048 species, 4,277 host
+genes (985 studied in two or more papers), and 2,951,184
+gene–genome assessments. (B) One record in full:
+avian ANP32A carries a 33-amino-acid insertion that mammals lack, with
+evidence for a role in influenza polymerase compatibility and host range;
+full-length ANP32A is detected in 1,870 of 2,337 assemblies
+assessed, traced to 41 source-linked papers (594
+extracted mentions; 10 carry typed studied/perturbed evidence,
+7 mechanism edges). (C) The live resource — the ANP32 explorer
+at https://josephguhlin.com/Roost/#/anp32 (① comparative genomics: the insert measured per species;
+② mechanism) and the ANP32A record view (③ source evidence). All numbers are
+generated from the same artifacts as the live site (data freeze 2026-10-29).

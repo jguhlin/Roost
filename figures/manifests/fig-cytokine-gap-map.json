@@ -1,0 +1,14 @@
+{
+  "figure": "fig-cytokine-gap-map",
+  "kind": "gap-map-spec",
+  "title": "Evidence map: does the cytokine storm KILL wild birds — or just accompany infection?",
+  "caption": "Cytokine induction is documented in mice, human cells, and chickens — but no study in any system manipulates the storm and tests mortality, and wild birds have no data at all.",
+  "page": "does-the-cytokine-storm-kill-wild-birds-or-does-it-merely-accompany",
+  "generated": "2026-10-04",
+  "assets": [],
+  "attribution_summary": "",
+  "sources": [
+    "enhanced_encephalitic_tropism_bovine_2024"
+  ],
+  "spec": "figures/specs/fig-cytokine-gap-map.json"
+}

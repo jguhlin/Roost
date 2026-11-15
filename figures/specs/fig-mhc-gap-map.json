@@ -1,0 +1,70 @@
+{
+  "figure": "fig-mhc-gap-map",
+  "page": "does-mhc-diversity-predict-h5n1-resistance-in-wild-birds",
+  "title": "Evidence map: is MHC diversity linked to H5N1 resistance in wild birds?",
+  "columns": [
+    {
+      "label": "Domestic chicken\n(lab lines)"
+    },
+    {
+      "label": "Lab mice /\nhuman cells"
+    },
+    {
+      "label": "Other taxa\n(descriptive)"
+    },
+    {
+      "label": "WILD BIRDS\n(the question)",
+      "gap": true
+    }
+  ],
+  "rows": [
+    "MHC genotype →\nH5N1 outcome",
+    "MHC diversity\ncharacterisation",
+    "Field infection /\nsurvival data"
+  ],
+  "cells": [
+    [
+      {
+        "level": 2,
+        "text": "Mx(A)/BF2(B21) resistant vs\nMx(G)/BF2(B13) susceptible\nlines — KEGG GSEA [2024]"
+      },
+      0,
+      {
+        "level": 1,
+        "text": "haplotype–susceptibility\nlinks, non-H5N1 or\nnon-avian contexts"
+      },
+      0
+    ],
+    [
+      {
+        "level": 1,
+        "text": "MHC characterised in\nhighly inbred lines"
+      },
+      0,
+      {
+        "level": 2,
+        "text": "MHC described in\nunrelated taxa"
+      },
+      0
+    ],
+    [
+      {
+        "level": 2,
+        "text": "experimental infection\noutcomes (lab)"
+      },
+      {
+        "level": 1,
+        "text": "model-system data only"
+      },
+      0,
+      0
+    ]
+  ],
+  "note_box": "no empirical study links MHC diversity to H5N1 outcome in any wild bird population",
+  "caption": "Direct evidence exists only in domestic chicken lab lines (Mx(A)/BF2(B21) resistant vs Mx(G)/BF2(B13) susceptible, KEGG GSEA of tracheal RNA-seq), plus MHC characterisation in unrelated taxa. The wild-bird column — the actual question — is empty.",
+  "footnote": "Gap report briefing — hpai_resistant_chickens_exhibit_2024 + corpus searches. Figure: fig-mhc-gap-map.",
+  "sources": [
+    "hpai_resistant_chickens_exhibit_2024"
+  ],
+  "generated": "2026-10-04"
+}

@@ -1,0 +1,33 @@
+{
+  "figure": "fig-cattle-timeline",
+  "kind": "svg-timeline",
+  "title": "Two entries, two years, two routes \u2014 B3.13 vs D1.1 in dairy cattle",
+  "caption": "Timeline of H5N1 2.3.4.4b in U.S. dairy cattle: B3.13's sustained outbreak (Texas Feb 2024 \u2192 13 states by July, M631L fixed) versus D1.1's later independent spillover (Wisconsin bulk milk, 2025, E627K acquired de novo). Companion to the B3.13-vs-D1.1 comparison cards.",
+  "page": "is-d11-or-b313-the-cattle-adapted-lineage-and-what-does-that-tell-us",
+  "generated": "2026-10-04",
+  "assets": [
+    {
+      "asset_id": "100",
+      "title": "Dairy Cow Silhouette",
+      "source": "nih-bioart",
+      "source_url": "https://bioart.niaid.nih.gov/bioart/100",
+      "original_path": "assets/nih-bioart/animals/000100_dairy-cow-silhouette_g431.svg",
+      "imported_path": "figures/src/assets/fig-cattle-timeline/000100_dairy-cow-silhouette_g431.svg",
+      "author": "Ryan Kissinger",
+      "license": "Public Domain",
+      "license_url": "",
+      "attribution": "NIAID Visual & Medical Arts. (10/7/2024). Dairy Cow Silhouette. NIAID NIH BIOART Source. bioart.niaid.nih.gov/bioart/100",
+      "requires_attribution": false,
+      "share_alike": false,
+      "commercial_ok": true,
+      "modified": false
+    }
+  ],
+  "attribution_summary": "",
+  "sources": [
+    "cattle_mbio2024",
+    "global_panzootic_mammals_2024",
+    "wisconsin_cattle_2025",
+    "pb2_cattle_adaptation2026"
+  ]
+}

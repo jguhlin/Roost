@@ -1,0 +1,333 @@
+{
+ "version": "1.0",
+ "updated": "2026-09-04",
+ "_doc": "Tracked annotations for the interactive pathway graph. Infection phases are a conceptual ordering of model stages, not measured timepoints. Gene locations are intentionally multi-valued and should be extended as localization evidence is curated.",
+ "phases": [
+  {
+   "id": "early",
+   "label": "Early infection",
+   "short": "Early",
+   "stages": [
+    "entry",
+    "sensing"
+   ],
+   "note": "Attachment, entry and recognition of viral material"
+  },
+  {
+   "id": "response",
+   "label": "Host response",
+   "short": "Response",
+   "stages": [
+    "signaling"
+   ],
+   "note": "Signal relay and interferon induction"
+  },
+  {
+   "id": "divergence",
+   "label": "Divergent response",
+   "short": "Divergence",
+   "stages": [
+    "effectors",
+    "cytokine_storm",
+    "dependency"
+   ],
+   "note": "Antiviral restriction, inflammatory escalation and viral exploitation"
+  },
+  {
+   "id": "late",
+   "label": "Late outcomes",
+   "short": "Late",
+   "stages": [
+    "celldeath",
+    "adaptive"
+   ],
+   "note": "Tissue pathology, clearance and adaptive immunity"
+  }
+ ],
+ "locations": [
+  {
+   "id": "surface",
+   "label": "Surface / secretory pathway"
+  },
+  {
+   "id": "endosome",
+   "label": "Endosome"
+  },
+  {
+   "id": "cytosol",
+   "label": "Cytosol"
+  },
+  {
+   "id": "mitochondria",
+   "label": "Mitochondria"
+  },
+  {
+   "id": "nucleus",
+   "label": "Nucleus"
+  },
+  {
+   "id": "secreted",
+   "label": "Secreted / extracellular"
+  },
+  {
+   "id": "viral",
+   "label": "Viral particle / protein"
+  },
+  {
+   "id": "unmapped",
+   "label": "Not yet mapped"
+  }
+ ],
+ "gene_locations": {
+  "FURIN": [
+   "surface",
+   "endosome"
+  ],
+  "ST6GAL1": [
+   "surface"
+  ],
+  "DDX58": [
+   "cytosol"
+  ],
+  "IFIH1": [
+   "cytosol"
+  ],
+  "TLR3": [
+   "endosome"
+  ],
+  "TLR7": [
+   "endosome"
+  ],
+  "TLR21": [
+   "endosome"
+  ],
+  "TLR15": [
+   "surface"
+  ],
+  "TLR4": [
+   "surface",
+   "endosome"
+  ],
+  "STING1": [
+   "cytosol",
+   "surface"
+  ],
+  "NLRP3": [
+   "cytosol"
+  ],
+  "IFIT5": [
+   "cytosol"
+  ],
+  "OASL": [
+   "cytosol"
+  ],
+  "UNC93B1": [
+   "endosome",
+   "surface"
+  ],
+  "MAVS": [
+   "mitochondria"
+  ],
+  "TRIM25": [
+   "cytosol"
+  ],
+  "MYD88": [
+   "cytosol"
+  ],
+  "TICAM1": [
+   "cytosol"
+  ],
+  "TIRAP": [
+   "cytosol",
+   "surface"
+  ],
+  "IRF3": [
+   "cytosol",
+   "nucleus"
+  ],
+  "IRF7": [
+   "cytosol",
+   "nucleus"
+  ],
+  "IRF1": [
+   "nucleus"
+  ],
+  "JAK2": [
+   "cytosol",
+   "surface"
+  ],
+  "STAT1": [
+   "cytosol",
+   "nucleus"
+  ],
+  "STAT2": [
+   "cytosol",
+   "nucleus"
+  ],
+  "SOCS1": [
+   "cytosol"
+  ],
+  "IFNB1": [
+   "secreted"
+  ],
+  "IFNA1": [
+   "secreted"
+  ],
+  "TNF": [
+   "secreted",
+   "surface"
+  ],
+  "IL6": [
+   "secreted"
+  ],
+  "IL1B": [
+   "cytosol",
+   "secreted"
+  ],
+  "CASP1": [
+   "cytosol"
+  ],
+  "IL10": [
+   "secreted"
+  ],
+  "MX1": [
+   "cytosol"
+  ],
+  "IFITM3": [
+   "surface",
+   "endosome"
+  ],
+  "RSAD2": [
+   "cytosol"
+  ],
+  "EIF2AK2": [
+   "cytosol"
+  ],
+  "BST2": [
+   "surface"
+  ],
+  "ISG15": [
+   "cytosol",
+   "secreted"
+  ],
+  "HERC5": [
+   "cytosol"
+  ],
+  "ANP32A": [
+   "nucleus",
+   "cytosol"
+  ],
+  "ANP32B": [
+   "nucleus",
+   "cytosol"
+  ],
+  "ANP32E": [
+   "nucleus"
+  ],
+  "CASP3": [
+   "cytosol"
+  ],
+  "CASP6": [
+   "cytosol"
+  ],
+  "RIPK2": [
+   "cytosol"
+  ],
+  "NOD1": [
+   "cytosol"
+  ],
+  "ATG5": [
+   "cytosol"
+  ],
+  "PRKCD": [
+   "cytosol",
+   "nucleus"
+  ],
+  "B2M": [
+   "surface",
+   "secreted"
+  ],
+  "BLB1": [
+   "surface"
+  ],
+  "BLB2": [
+   "surface"
+  ],
+  "TAP1": [
+   "surface"
+  ],
+  "TAP2": [
+   "surface"
+  ],
+  "RAG1": [
+   "nucleus"
+  ],
+  "AICDA": [
+   "nucleus"
+  ],
+  "SYK": [
+   "cytosol",
+   "surface"
+  ],
+  "IRF8": [
+   "nucleus"
+  ],
+  "PB2": [
+   "viral",
+   "nucleus"
+  ],
+  "PB1": [
+   "viral",
+   "nucleus"
+  ],
+  "PB1-F2": [
+   "viral",
+   "mitochondria"
+  ],
+  "PA": [
+   "viral",
+   "nucleus"
+  ],
+  "PA-X": [
+   "viral",
+   "nucleus"
+  ],
+  "HA": [
+   "viral",
+   "surface"
+  ],
+  "NP": [
+   "viral",
+   "nucleus"
+  ],
+  "NA": [
+   "viral",
+   "surface"
+  ],
+  "NS1": [
+   "viral",
+   "cytosol",
+   "nucleus"
+  ],
+  "M2": [
+   "viral",
+   "surface"
+  ],
+  "BF2": [
+   "surface"
+  ],
+  "TAPBP": [
+   "surface"
+  ],
+  "CD74": [
+   "endosome",
+   "surface"
+  ],
+  "BNK": [
+   "surface"
+  ],
+  "BLEC": [
+   "surface"
+  ]
+ }
+}

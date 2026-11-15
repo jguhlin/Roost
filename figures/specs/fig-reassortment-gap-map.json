@@ -1,0 +1,17 @@
+{
+  "figure": "fig-reassortment-gap-map",
+  "page": "how-do-reassortment-patterns-and-lineage-contributions-of-h5-clade",
+  "title": "Evidence map: reassortment + lineage contributions of H5 clade 2.3.4.4b",
+  "columns": [{"label": "Outbreak\ndescriptions"}, {"label": "Full-genome\nanalyses"}, {"label": "CROSS-REGION\nSYNTHESIS", "gap": true}],
+  "rows": ["Genotype\nconstellations", "Phylogenetic\ncontext", "Host-range\nattribution"],
+  "cells": [
+    [{"level": 2, "text": "B3.13: HA clade 2.3.4.4b +\ntrio 1.3.7, M-2.3.2.1e\n[rehuel_dairy_cattle_2026]"}, 1, 0],
+    [{"level": 2, "text": "gull/Peru elephant seals:\nDP2 lineage (PB2 A, PA 2.3.2.1c)\n[puryear_elephant_seals_2024]"}, 1, 0],
+    [1, 1, 0]
+  ],
+  "note_box": "the corpus holds isolated genotype descriptions per outbreak —\nno comparative analysis links reassortment to spread or host range",
+  "caption": "Individual outbreak genotypes are described (B3.13 in cattle; DP2 in gull/Peru seal spillovers), but no systematic comparison of reassortment patterns across regions or hosts exists in the corpus.",
+  "footnote": "Gap report briefing — the #2 top-scored open question. Figure: fig-reassortment-gap-map (spec-driven).",
+  "sources": ["rehuel_dairy_cattle_2026", "puryear_elephant_seals_2024"],
+  "generated": "2026-10-04"
+}

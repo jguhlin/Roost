@@ -1,0 +1,55 @@
+{
+  "figure": "fig-how-inter-clade-reassortment-within-cl-auto",
+  "page": "how-inter-clade-reassortment-within-clade-2344b-is-distributed",
+  "title": "Evidence map: inter-clade reassortment within H5 2.3.4.4b",
+  "columns": [
+    {
+      "label": "Outbreak\ngenotypes",
+      "gap": false
+    },
+    {
+      "label": "Full-genome\nanalyses",
+      "gap": false
+    },
+    {
+      "label": "CROSS-REGION\nSYNTHESIS",
+      "gap": true
+    }
+  ],
+  "rows": [
+    "Genotype constellations",
+    "Phylogenetic context",
+    "Host-range attribution"
+  ],
+  "cells": [
+    [
+      2,
+      1,
+      0
+    ],
+    [
+      2,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      0
+    ]
+  ],
+  "note_box": "executor smoke test — rendered from an in-memory proposal",
+  "caption": "Isolated genotype constellations exist per outbreak; cross-region synthesis and host-range attribution do not.",
+  "footnote": "Proposed by the research agent during briefing synthesis — figure: fig-how-inter-clade-reassortment-within-cl-auto (auto-rendered).",
+  "sources": [
+    "cattle_spillover2024",
+    "clade_detected_wild_bird_2026",
+    "clade_introduced_wild_birds_2024",
+    "global_panzootic_mammals_2024",
+    "hagag_first_2026",
+    "japan_korea_genomics2024",
+    "korea_poultry2025",
+    "leonardo2024_cattle"
+  ],
+  "generated": "2026-10-05"
+}

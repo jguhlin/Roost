@@ -1,0 +1,301 @@
+{
+ "corpus": {
+  "papers": 1528,
+  "verified_analyses": 1860,
+  "host_genes_registry": 4348,
+  "studied_genes": 3560,
+  "gene_paper_links": 8631,
+  "spread_items": 3896,
+  "spread_grounded_pct": 89,
+  "llm": "muse-glimmer-30b @ local sglang endpoint (OpenAI-compatible); extract->verify double-pass; quotes stored verbatim per claim",
+  "quote_verification": "all quotes in this file checked verbatim against docs/papers_md/ sources 2026-11-10"
+ },
+ "top_genes_by_papers": [
+  {
+   "symbol": "IFNB1",
+   "papers": 106,
+   "species": 13
+  },
+  {
+   "symbol": "IFNG",
+   "papers": 105,
+   "species": 10
+  },
+  {
+   "symbol": "TNF",
+   "papers": 105,
+   "species": 7
+  },
+  {
+   "symbol": "IL6",
+   "papers": 98,
+   "species": 7
+  },
+  {
+   "symbol": "MX1",
+   "papers": 96,
+   "species": 16
+  },
+  {
+   "symbol": "DDX58",
+   "papers": 88,
+   "species": 15
+  },
+  {
+   "symbol": "IL1B",
+   "papers": 70,
+   "species": 11
+  },
+  {
+   "symbol": "IRF7",
+   "papers": 63,
+   "species": 5
+  },
+  {
+   "symbol": "GAPDH",
+   "papers": 54,
+   "species": 6
+  },
+  {
+   "symbol": "IFIH1",
+   "papers": 50,
+   "species": 8
+  },
+  {
+   "symbol": "ISG15",
+   "papers": 50,
+   "species": 7
+  },
+  {
+   "symbol": "STAT1",
+   "papers": 49,
+   "species": 15
+  }
+ ],
+ "gene_evidence_counts": {
+  "DDX58": {
+   "papers": 89,
+   "studied": 88,
+   "via_alias": 0,
+   "text_only": 1,
+   "reviewed_connections": 16,
+   "reviewed_evidence": 50
+  },
+  "IFIH1": {
+   "papers": 51,
+   "studied": 50,
+   "via_alias": 0,
+   "text_only": 1,
+   "reviewed_connections": 3,
+   "reviewed_evidence": 6
+  },
+  "IFITM3": {
+   "papers": 57,
+   "studied": 1,
+   "via_alias": 45,
+   "text_only": 12,
+   "reviewed_connections": 14,
+   "reviewed_evidence": 40
+  },
+  "OASL": {
+   "papers": 36,
+   "studied": 30,
+   "via_alias": 0,
+   "text_only": 6,
+   "reviewed_connections": 7,
+   "reviewed_evidence": 21
+  },
+  "MX1": {
+   "papers": 111,
+   "studied": 96,
+   "via_alias": 0,
+   "text_only": 15,
+   "reviewed_connections": 4,
+   "reviewed_evidence": 9
+  },
+  "ANP32A": {
+   "papers": 47,
+   "studied": 29,
+   "via_alias": 13,
+   "text_only": 7,
+   "reviewed_connections": 6,
+   "reviewed_evidence": 38
+  },
+  "MAVS": {
+   "papers": 54,
+   "studied": 48,
+   "via_alias": 0,
+   "text_only": 6,
+   "reviewed_connections": 25,
+   "reviewed_evidence": 43
+  }
+ },
+ "quotes": {
+  "IFITM3": [
+   {
+    "paper_id": "chicken_ifitm_ndv2025",
+    "role": "The paper reports that chIFITM3 depletion markedly impairs chicken interferon lambda 3-mediated antiviral activity against NDV and that chIFITM3 overexpression restricts NDV infection by blocking viral entry and reducing",
+    "quote": "The results revealed a variable reduction in the antiviral ability of chIFNL3, with siIFITM3 resulting in the most pronounced decrease (threefold)"
+   },
+   {
+    "paper_id": "smith_gannet2024_7",
+    "role": "Overexpression of chicken IFITM3 provides substantial in vivo defense against highly pathogenic avian influenza virus H5N1, conferring protection, disease tolerance, reduced viral shedding and alleviated pathology in chi",
+    "quote": "The chIFITM3-overexpressing chicks showed significant protection and disease tolerance against highly pathogenic avian influenza virus (HPAIV) H5N1 (Clade 2.2.1.2)."
+   },
+   {
+    "paper_id": "antiviral_restriction_factors_bats_2024",
+    "role": "The paper says bat IFITM3 antiviral activity is shaped by residue 70 and requires efficient palmitoylation, differing from human IFITM3 tolerance.",
+    "quote": "IFITM3 activity in diverse Yangochiroptera (e.g. _M. myotis_ and _C. brevicauda_ ) is shaped by the amino acid at position 70, and its activity is dependent on efficient palmitoylation, while the human counterpart is more tolerant to variation at position 70 and partial loss of palmitoylation [47]."
+   },
+   {
+    "paper_id": "comparative_analysis_host_responses_2024",
+    "role": "The paper finds IFITM3 is strongly up-regulated in ducks in response to highly pathogenic avian influenza and suggests it may restrict avian influenza virus through cell membrane fusion, with distinct co-expression patte",
+    "quote": "Clustering of gene expression profiles suggests IFITM1 and 2 have an anti-viral response and IFITM3 may restrict avian influenza virus through cell membrane fusion."
+   }
+  ],
+  "OASL": [
+   {
+    "paper_id": "expression_dynamics_antiviral_role_2026",
+    "role": "Overexpression and knockdown assays verified that chicken OASL suppresses infectious bronchitis virus replication.",
+    "quote": "Importantly, overexpression and knockdown assays verified that chOASL could suppress IBV replication."
+   },
+   {
+    "paper_id": "two_faces_oligoadenylate_synthetase_2024",
+    "role": "OASL proteins act like a double-edged sword during immune responses to viral infection, acting antiviral primarily against RNA viruses whereas most DNA viruses benefit from OASL expression.",
+    "quote": "OASL proteins are of particular interest since they are structurally unique and act like a double-edged sword during immune responses to viral infection: they act antiviral, primarily against RNA viruses, whereas most DNA viruses benefit from OASL expression."
+   },
+   {
+    "paper_id": "exploring_molecular_biological_2024",
+    "role": "The paper reports OASL is upregulated after viral infection and initiates a host defense mechanism, with targeting of OASL suggested as promising for preventing and treating Newcastle disease in poultry.",
+    "quote": "PPI network analysis revealed upregulation of oligoadenylate synthetase-like ( _OASL_ ) following infection with various viruses, initiating a defense mechanism against infections."
+   },
+   {
+    "paper_id": "hpai_2024",
+    "role": "OASL was consistently prioritized by both models as a top-ranked interferon-stimulated antiviral gene that is upregulated in H5N1-infected chicken samples.",
+    "quote": "Top-ranking interferon-stimulated genes (ISGs), including IFIT5, MX1, and OASL, were consistently upregulated in infected samples, indicating activation of type I interferon pathways."
+   }
+  ],
+  "MX1": [
+   {
+    "paper_id": "btrc_restriction2025",
+    "role": "Human MxA is an interferon-induced innate immune protein that restricts replication of zoonotic and highly pathogenic avian influenza A(H5N1) clade 2.3.4.4b viruses in vitro and in vivo, with partial escape possible via ",
+    "quote": "MxA is an interferon-induced innate immune protein that suppresses replication of zoonotic influenza A viruses (IAVs) ( _5_, _6_ )."
+   },
+   {
+    "paper_id": "antiviral_restriction_factors_bats_2024",
+    "role": "MX1 targets nuclear import and RNA synthesis and bat orthologs reduce polymerase activity of viruses circulating in bats.",
+    "quote": "MX1 targets nuclear import and RNA synthesis."
+   },
+   {
+    "paper_id": "pathway_analysis_infection_2024",
+    "role": "The paper reports MX1 expression is upregulated in the HPAIV-resistant Ri chicken line compared to the susceptible line at 3 days post-infection, consistent with an enhanced antiviral immune response.",
+    "quote": "Compared to expression in the susceptible line, in the resistant line, the expression of _MX1_, _STAT1_, _IRF7_, and _TLR3_ was upregulated, while that of _BF1_ was downregulated."
+   },
+   {
+    "paper_id": "hpai_2024",
+    "role": "The paper reports MX1 as a top-ranking interferon-stimulated gene consistently upregulated in H5N1-infected chicken samples and associated with interferon-induced inhibition of influenza virus replication.",
+    "quote": "Top-ranking interferon-stimulated genes (ISGs), including IFIT5, MX1, and OASL, were consistently upregulated in infected samples, indicating activation of type I interferon pathways."
+   }
+  ],
+  "DDX58": [
+   {
+    "paper_id": "comparative_analysis_host_responses_2024",
+    "role": "The paper states chickens lack the intracellular ssRNA receptor RIG-I/DDX58 while ducks retain it, and this difference partly explains divergent host responses to avian influenza.",
+    "quote": "Chickens (but not ducks) lack the intracellular receptor for viral ssRNA, RIG-I and the gene for an important RIG-I binding protein, RNF135."
+   },
+   {
+    "paper_id": "circrna_expression_profiling_h1n1_2024",
+    "role": "The paper describes DDX58 (RIG-I) as a well-known pattern recognition receptor of negative-sense RNA viruses and reports that circRNAs derived from DDX58 are upregulated upon H1N1 infection and may participate in a commo",
+    "quote": "The ubiquitous cytosolic DExD/H box RNA helicase 58, _DDX58_ (or _RIG-I_ ) is a well-known pattern recognition receptor of negative-sense RNA viruses while _PML_, also known as _TRIM19_, a type I interferon (IFN-I)-induced gene product involved in innate immune mechanisms against both DNA and RNA vi"
+   },
+   {
+    "paper_id": "crossm_naturally_occurring_deletion_2024",
+    "role": "The paper describes RIG-I as the sensor of influenza viral genomic RNA whose activation via TRIM25-mediated ubiquitination drives type I interferon induction, and shows that NS1 with the EALQR motif blocks RIG-I signalin",
+    "quote": "Influenza viral genomic RNA is generally sensed by RIG-I, which consists of two N-terminal caspase activation and recruitment domain (CARDs), a central DExD/H-box ATPase domain, and a C-terminal regulatory/repressor domain (CTD/RD) (13)."
+   },
+   {
+    "paper_id": "duck_transcriptome2021",
+    "role": "The paper describes DDX58/RIG-I as key to the duck’s innate defense and a cytoplasmic sensor that detects IAV.",
+    "quote": "Key to the duck’s innate defense is the cytoplasmic sensor DExD/H-Box Helicase 58/retinoic acid-inducible gene I (DDX58/RIG-I) which detects IAV, and the mitochondrial antiviral-signaling protein (MAVS) signaling pathway."
+   }
+  ]
+ },
+ "paper_records": {
+  "smith_gannet2024_7": {
+   "title": "Avian sarcoma/leukosis virus (RCAS)-mediated over-expression of IFITM3 protects chicks from highly pathogenic avian influenza virus subtype H5N1",
+   "journal": "Microbes and Infection",
+   "year": 2024,
+   "doi": "10.1016/j.micinf.2023.105231",
+   "url": "https://doi.org/10.1016/j.micinf.2023.105231"
+  },
+  "chicken_ifitm_ndv2025": {
+   "title": "Chicken interferon-induced transmembrane proteins inhibit Newcastle disease virus infection by affecting viral entry and W protein expression",
+   "journal": "Veterinary Research",
+   "year": 2025,
+   "doi": "10.1186/s13567-025-01530-y",
+   "url": "https://doi.org/10.1186/s13567-025-01530-y"
+  },
+  "barber2010": {
+   "title": "Association of RIG-I with innate immunity of ducks to influenza",
+   "journal": "Proc Natl Acad Sci U S A",
+   "year": 2010,
+   "doi": "10.1073/pnas.1001755107",
+   "url": "https://doi.org/10.1073/pnas.1001755107"
+  },
+  "comparative_analysis_host_responses_2024": {
+   "title": "A comparative analysis of host responses to avian influenza infection in ducks and chickens highlights a role for the interferon-induced transmembrane proteins in viral resistance",
+   "journal": "BMC Genomics",
+   "year": 2015,
+   "doi": "10.1186/s12864-015-1778-8",
+   "url": "https://doi.org/10.1186/s12864-015-1778-8"
+  },
+  "long_anp32_2019": {
+   "title": "Species specific differences in use of ANP32 proteins by influenza A virus",
+   "journal": "eLife",
+   "year": 2019,
+   "doi": "10.7554/eLife.45066",
+   "url": "https://doi.org/10.7554/eLife.45066"
+  },
+  "anp32_editing2023": {
+   "title": "Creating resistance to avian influenza infection through genome editing of the ANP32 gene family",
+   "journal": "Nature Communications",
+   "year": 2023,
+   "doi": "10.1038/s41467-023-41476-3",
+   "url": "https://doi.org/10.1038/s41467-023-41476-3"
+  },
+  "yang_oasl_2016": {
+   "title": "Identification of 2¢-5¢-Oligoadenylate Synthetase-Like Gene in Goose: Gene Structure, Expression Patterns, and Antiviral Activity Against Newcastle Disease Virus",
+   "journal": "Journal of Interferon & Cytokine Research",
+   "year": 2016,
+   "doi": "10.1089/jir.2015.0167",
+   "url": null
+  },
+  "two_faces_oligoadenylate_synthetase_2024": {
+   "title": "The two faces of oligoadenylate synthetase-like: effective antiviral protein and negative regulator of innate immunity",
+   "journal": "Current Opinion in Virology",
+   "year": 2024,
+   "doi": "10.1016/j.coviro.2023.101329",
+   "url": "https://doi.org/10.1016/j.coviro.2023.101329"
+  },
+  "duck_mda5_h5n12014": {
+   "title": "Duck MDA5 functions in innate immunity against H5N1 highly pathogenic avian influenza virus infections",
+   "journal": "BMC Veterinary Research",
+   "year": 2014,
+   "doi": "10.1186/1297-9716-45-66",
+   "url": "https://link.springer.com/article/10.1186/1297-9716-45-66"
+  }
+ },
+ "ifitm3_genomic_question": {
+  "not_found_rows": 1409,
+  "not_found_species": 1249,
+  "high_confidence_absences": 0,
+  "high_confidence_species": [],
+  "low_confidence_examples": [
+   "Taeniopygia guttata",
+   "Ficedula albicollis",
+   "Tinamus guttatus",
+   "Struthio camelus"
+  ],
+  "note": "passerine/ratite IFITM3 non-detections are LOW confidence (searchability 0.5-0.67): research question, not absence claim"
+ }
+}

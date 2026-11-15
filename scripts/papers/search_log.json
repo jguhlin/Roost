@@ -1,0 +1,139 @@
+[
+  {
+    "timestamp": "2026-08-26T17:52:24.360851",
+    "days": 14,
+    "sources": [
+      "pubmed"
+    ],
+    "categories": [
+      "core"
+    ],
+    "found": 9,
+    "new": 7
+  },
+  {
+    "timestamp": "2026-09-05T13:32:09.043881",
+    "days": 90,
+    "sources": [
+      "openalex"
+    ],
+    "categories": [
+      "core",
+      "host_genomics",
+      "species",
+      "evolution"
+    ],
+    "found": 538,
+    "new": 266
+  },
+  {
+    "timestamp": "2026-09-05T13:32:51.910857",
+    "days": 90,
+    "sources": [
+      "europepmc"
+    ],
+    "categories": [
+      "core",
+      "host_genomics",
+      "species",
+      "evolution"
+    ],
+    "found": 0,
+    "new": 0
+  },
+  {
+    "timestamp": "2026-09-05T13:34:31.327213",
+    "days": 90,
+    "sources": [
+      "europepmc"
+    ],
+    "categories": [
+      "core",
+      "host_genomics",
+      "species",
+      "evolution"
+    ],
+    "found": 347,
+    "new": 157
+  },
+  {
+    "timestamp": "2026-09-05T13:35:06.244664",
+    "days": 90,
+    "sources": [
+      "openalex"
+    ],
+    "categories": [
+      "core",
+      "host_genomics",
+      "species",
+      "evolution"
+    ],
+    "found": 538,
+    "new": 266
+  },
+  {
+    "timestamp": "2026-09-05T13:35:56.351977",
+    "days": 90,
+    "sources": [
+      "medrxiv"
+    ],
+    "categories": [
+      "core",
+      "host_genomics",
+      "species",
+      "evolution"
+    ],
+    "found": 56,
+    "new": 25
+  },
+  {
+    "timestamp": "2026-09-05T13:36:52.538152",
+    "days": 90,
+    "sources": [
+      "europepmc"
+    ],
+    "categories": [
+      "core",
+      "host_genomics",
+      "species",
+      "evolution"
+    ],
+    "found": 347,
+    "new": 157
+  },
+  {
+    "timestamp": "2026-09-05T13:37:28.839304",
+    "days": 90,
+    "sources": [
+      "openalex"
+    ],
+    "categories": [
+      "core",
+      "host_genomics",
+      "species",
+      "evolution"
+    ],
+    "found": 538,
+    "new": 266
+  },
+  {
+    "timestamp": "2026-09-05T15:33:14.326820",
+    "days": 30,
+    "sources": [
+      "pubmed",
+      "pmc",
+      "biorxiv",
+      "medrxiv",
+      "europepmc",
+      "openalex"
+    ],
+    "categories": [
+      "core",
+      "host_genomics",
+      "species",
+      "evolution"
+    ],
+    "found": 378,
+    "new": 157
+  }
+]

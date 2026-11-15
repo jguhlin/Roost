@@ -1,0 +1,11 @@
+{
+  "figure": "fig-pb2-e627k-hosts",
+  "kind": "python-matplotlib",
+  "title": "PB2 E627K across host species — human gain vs cattle bypass vs avian ANP32A support",
+  "caption": "Panel A: in human-cell minireplicons, PB2 E627K introduced into the avian euDG 2.3.4.4b polymerase raises activity far above both the native euDG and reconstructed bovine B3.13 (qualitative ordering, log scale; matthew2025). Panel B: the same substitution plays different roles per host — a major gain in humans, largely absent in cattle B3.13 where adaptation runs through PB2 M631L (+PA K497R), and unnecessary in birds where ANP32A's 33-aa insert already supports the 627E polymerase.",
+  "page": "what-is-the-functional-consequence-of-pb2-e627k-in-different-host",
+  "generated": "2026-10-04",
+  "assets": [],
+  "attribution_summary": "",
+  "sources": ["matthew2025", "pb2_cattle_adaptation2026", "mammal_adaptations_review2025"]
+}

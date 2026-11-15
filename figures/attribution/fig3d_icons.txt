@@ -1,0 +1,41 @@
+PhyloPic silhouettes used by figures/export/fig3d_icons.*
+(120 images, via scripts/fetch_phylopic.py)
+
+ 13 images — Andy Wilson
+ 13 images — Sharon Wegner-Larsen
+ 11 images — Edwin Price
+  9 images — L. Shyamal
+  6 images — Juan Carlos Jerí
+  5 images — unknown
+  5 images — Michael Scroggie
+  5 images — Peileppe
+  4 images — Alexandre Vong
+  4 images — Ferran Sayol
+  4 images — Liam Quinn (photo) and Albertonykus (silhouette)
+  3 images — Shyamal
+  3 images — Giles Laurent
+  3 images — Steven Traver
+  3 images — Oscar G. Miranda
+  3 images — JJ Harrison (vectorized by T. Michael Keesey)
+  2 images — Maija Karala
+  2 images — Mathieu Pélissié
+  2 images — terngirl
+  2 images — Kai Caspar
+  1 images — Nix Illustration
+  1 images — Elaine R. Wilson (modified)
+  1 images — Lauren Anderson
+  1 images — Stephen James McWilliam
+  1 images — An Ignorant Atheist
+  1 images — Gabriela Palomo-Munoz
+  1 images — Jason Dilworth
+  1 images — annaleeblysse
+  1 images — Caleb M. Gordon
+  1 images — Lee Harding (photo), John E. McCormack, Michael G. Harvey, Brant C. Faircloth, Nicholas G. Crawford, Travis C. Glenn, Robb T. Brumfield & T. Michael Keesey
+  1 images — Margot Michaud
+  1 images — T. Michael Keesey
+  1 images — Yuxin Li
+  1 images — Kimberly Haddrell
+  1 images — Jun Mencius
+  1 images — Johnny
+  1 images — Danielle Alba
+  1 images — Matt Wilkins

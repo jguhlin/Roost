@@ -1,0 +1,17 @@
+{
+  "figure": "fig-cattle-lineages",
+  "kind": "svg-diagram",
+  "title": "B3.13 vs D1.1 in dairy cattle — convergence at the polymerase·ANP32 interface",
+  "caption": "B3.13 (Texas, Feb 2024; 13 states by July) is the established cattle lineage with a non-canonical signature: PB2 M631L fixed in all sequences + PA K497R, adapting polymerase to bovine ANP32 without E627K. D1.1 (Wisconsin, 2025, bulk milk) is a later independent spillover from local avian viruses that acquired the classic PB2 E627K de novo. Two routes to the same destination — screen for both.",
+  "page": "is-d11-or-b313-the-cattle-adapted-lineage-and-what-does-that-tell-us",
+  "generated": "2026-10-04",
+  "assets": [],
+  "attribution_summary": "",
+  "sources": [
+    "cattle_mbio2024",
+    "global_panzootic_mammals_2024",
+    "pb2_cattle_adaptation2026",
+    "wisconsin_cattle_2025",
+    "mostafa_h5n1_us_2025"
+  ]
+}

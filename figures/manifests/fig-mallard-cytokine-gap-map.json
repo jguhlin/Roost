@@ -1,0 +1,14 @@
+{
+  "figure": "fig-mallard-cytokine-gap-map",
+  "kind": "gap-map-spec",
+  "title": "Evidence map: mallard vs chicken cytokine responses",
+  "caption": "Cytokine profiling exists in mice, human cells, and chickens — but no mallard cytokine data and no study compares the species pair with a common panel.",
+  "page": "mallard,chicken-cytokine-respo-species-comparison",
+  "generated": "2026-10-04",
+  "assets": [],
+  "attribution_summary": "",
+  "sources": [
+    "enhanced_encephalitic_tropism_bovine_2024"
+  ],
+  "spec": "figures/specs/fig-mallard-cytokine-gap-map.json"
+}
