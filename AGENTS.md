@@ -2,7 +2,22 @@
 
 ## Standing directives
 
-### Data-driven site policy (2026-10-05)
+#### GitHub readiness (2026-11-11)
+- Repo history was RESET (fresh single-commit `main`) for public GitHub:
+  old history (with data blobs, PDFs, and `web/.env` secrets) is GONE.
+  Never re-add data to git — `docs/GITHUB_PLAN.md` documents the policy
+  and the checklist that produced the clean tree.
+- `.gitignore` is the enforcement layer: data/, pdfs_to_process/,
+  orthofinder/, verso_workspace/, *.zip, *.pdf, web/.env, build outputs,
+  paper/ + pub_workspace/ (private until submission), generated web
+  payloads. `git status` reading noisy untracked files = check ignore
+  rules, don't `git add -f`.
+- Deploy: `ROOST_DEPLOY_HOST` env var (never committed). FFX264 in figure
+  scripts resolves via env or a username-free Julia-depot glob.
+- Licenses: MIT (code, `LICENSE`) + CC-BY-NC-4.0 (generated text/docs/
+  prompts/figures, `LICENSE-CC-BY-NC-4.0`).
+
+# Data-driven site policy (2026-10-05)
 - The site must remain **data-driven**: numbers displayed on pages come from
   generated artifacts (`web/public/data/*.json`), never hardcoded into
   components. If a number appears in a `.svelte` file, that's a bug — move it
